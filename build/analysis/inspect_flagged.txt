@@ -1,0 +1,205 @@
+========================================================================
+ RAW PDF TEXT INSPECTION ù 7 flagged cases
+========================================================================
+
+ Review each excerpt and decide:
+   (a) stored value in data/*.yaml is CORRECT
+   (b) extracted value in timeouts.json is CORRECT
+   (c) neither ù a third value is correct
+
+[AT+CPIN] V1.12
+  Found 3 candidate page(s):
+
+  --- page 4 (Max Response Time) ---
+      of Execution Command 
+      17.2.1 AT+CREC 
+      Add note 
+      18.2.2 AT+CTTSPARAM 
+      Modify parameter;add note 
+      20.8 GPRS Commands 
+      Modify the CGQREQ example 
+      20.17 RECORD Commands 
+      Add example 
+      3.2.17 AT+CLCK 
+      Add Max Response Time 
+      3.2.22 AT+COPS 
+      Add Max Response Time 
+      3.2.29 AT+CPWD 
+      Add Max Response Time 
+      3.2.28 AT+CPIN 
+      Add Max Response Time 
+      3.2.41 AT+VTS 
+      Add Max Response Time 
+      3.2.44 AT+CPOL 
+      Add Max Response Time 
+      3.2.45 AT+COPN 
+      Add Max Response Time 
+      3.2.54 AT+CPUC 
+      Add Max Response Time 
+      6.2.7 AT+CADC 
+      Add Max Response Time 
+      6.2.23 AT+CCID 
+      Add Max Response Time 
+      7.2.1 AT+CGATT 
+      Add Max Response Time 
+      7.2.5 AT+CGACT 
+      Add Max Response Time 
+      3.2.24 AT+CPBF 
+      Modify description of  max response time 
+      3.2.25 AT+CPBR  
+      Modify description of  max response time 
+      4.2.1 CMGD 
+      Modify description of  max response time 
+      4.2.3 CMGL 
+      Modify description of  max response time 
+      6.2.25 CMGDA 
+      Modify description of  max response time 
+      15.2.8 AT+CMMSSEND 
+      Modify description of  max response time 
+      15.2.15 AT+CMMSRECV 
+      Modify description of  max response time 
+      2.2.16 ATS0 
+      Add parameter saving mode 
+      2.2.20 ATS6 
+      Add paramete
+
+  --- page 83 (Max Response Time) ---
+      C 30 38 
+ 
+      (backspace) 
+ 
+              NULL 
+ 
+      \00 5C 30 30 
+ 
+      (GSM null) 
+ 
+      æ0Æ (GSM null) may cause problems for application layer software when 
+      reading string lengths. 
+      Parameter Saving Mode 
+      NO_SAVE 
+      Max Response Time 
+      3 seconds 
+      Reference 
+      3GPP TS 27.007 [13] 
+      Note 
+ 
+ 
+ 
+      3.2.28 AT+CPIN  Enter PIN 
+      AT+CPIN  Enter PIN 
+      Test Command 
+      AT+CPIN=? 
+      Response 
+      OK 
+      Read Command 
+      AT+CPIN? 
+      Response 
+      TA returns an alphanumeric string indicating whether some password is 
+      required or not. 
+      +CPIN: <code> 
+ 
+      OK 
+      Parameters 
+      <code>  
+      READY  
+       MT is not pending for any password 
+ 
+      SIM PIN  
+       MT is waiting SIM PIN to be given 
+ 
+      SIM PUK 
+       MT is waiting for SIM PUK to be given 
+ 
+      PH_SIM PIN  ME is waiting for phone to SIM card (antitheft) 
+ 
+      PH_SIM PUK  ME is waiting for SIM PUK (antitheft) 
+      SIM PIN2 
+       PIN2, e.g. for editing the FDN book possible only if 
+      preceding Command was acknowledged with +CME ERROR: 17 
+      SIM PUK2 
+       Possible only if preceding Command was acknowledged 
+      with error +CME ERROR: 18. 
+      Write Command 
+      Response 
+      TA stores a password which is necessary before it can be operated (SIM
+
+  --- page 84 (Max Response Time) ---
+      ME functionality: 
+      +CME ERROR: <err> 
+      Parameters 
+      <pin> 
+ 
+       String type; password  
+      <new pin>    String type; If the PIN required is SIM PUK or SIMPUK2: 
+      new password 
+      Parameter Saving Mode 
+      NO_SAVE 
+      Max Response Time 
+      5s 
+      Reference 
+      3GPP TS 27.007 [13] 
+      Note 
+ 
+ 
+ 
+      3.2.29 AT+CPWD  Change Password 
+      AT+CPWD  Change Password 
+      Test Command 
+      AT+CPWD=? 
+      Response 
+      TA returns a list of pairs which present the available facilities and the 
+      maximum length of their password. 
+      +CPWD: (list of supported <fac>s, list of supported <pwdlength>s) 
+ 
+      OK 
+      Parameters 
+      <fac> 
+ 
+          See Write Command 
+      <pwdlength> 
+          Integer max. length of password 
+      Write Command 
+      AT+CPWD=<fac>,<old
+      pwd>,<newpwd> 
+      Response 
+      TA sets a new password for the facility lock function.  
+      OK 
+      Parameters 
+      <fac> 
+ 
+ 
+      "AO" BAOC (Barr All Outgoing Calls) 
+ 
+      "OI"  BOIC (Barr Outgoing International Calls) 
+ 
+      "OX" BOIC-exHC (Barr Outgoing International Calls except to 
+      Home Country)  
+ 
+      "AI"  BAIC (Barr All Incoming Calls) 
+ 
+      "IR" BIC-Roam (Barr Incoming Calls when Roaming outside 
+      the home country) 
+ 
+      "AB"  All Barring services 
+ 
+      "P2"  SIM PIN2
+
+[AT+CMGD] V1.12
+  Found 3 candidate page(s):
+
+  --- page 108 (Max Response Time) ---
+Traceback (most recent call last):
+  File "D:\Project\Electronic Project\Control Board SMS 2\Documents\New folder (2)\New\1- sim800-at-timeouts\001\scripts\inspect_flagged.py", line 116, in <module>
+    main()
+    ~~~~^^
+  File "D:\Project\Electronic Project\Control Board SMS 2\Documents\New folder (2)\New\1- sim800-at-timeouts\001\scripts\inspect_flagged.py", line 112, in main
+    report_case(cmd, ver)
+    ~~~~~~~~~~~^^^^^^^^^^
+  File "D:\Project\Electronic Project\Control Board SMS 2\Documents\New folder (2)\New\1- sim800-at-timeouts\001\scripts\inspect_flagged.py", line 96, in report_case
+    print(wrapped)
+    ~~~~~^^^^^^^^^
+  File "C:\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\uff08' in position 283: character maps to <undefined>

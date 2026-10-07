@@ -1,0 +1,9933 @@
+{
+  "AT+CAAS": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        40,
+        131,
+        159
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        48,
+        144,
+        178
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        47,
+        138,
+        169,
+        170
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CACM": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        48,
+        49
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        56,
+        57,
+        58
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        55,
+        56,
+        57
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+CADC": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        14,
+        130,
+        135
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        13,
+        15,
+        20,
+        143,
+        149,
+        150,
+        380
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        8,
+        10,
+        14,
+        21,
+        137,
+        143,
+        360
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CAGCSET": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        17,
+        144,
+        194
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        15,
+        138,
+        184,
+        185
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CALA": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        130,
+        134,
+        135
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        17,
+        19,
+        143,
+        148,
+        149,
+        357
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        8,
+        14,
+        137,
+        141,
+        142,
+        338
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+CALD": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        130,
+        135
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        143,
+        149
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        137,
+        143
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CALM": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        92
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        102,
+        103
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        56,
+        98
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CALS": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        40,
+        48,
+        93
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        17,
+        18,
+        48,
+        57,
+        103
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        7,
+        9,
+        13,
+        47,
+        56,
+        98,
+        99
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+CAMM": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        49
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        56,
+        58
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        55,
+        57
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+CAND": {
+    "V1.12": {
+      "all_pages": [
+        10
+      ],
+      "first_page": 10
+    }
+  },
+  "AT+CANT": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        17,
+        19,
+        48,
+        144,
+        193,
+        194,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        7,
+        15,
+        47,
+        138,
+        183,
+        184,
+        364
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CAOC": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        50,
+        51
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        56,
+        59,
+        60
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        55,
+        58,
+        59
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+CBAND": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        12,
+        130,
+        142,
+        314
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        13,
+        18,
+        143,
+        157,
+        378
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        15,
+        20,
+        137,
+        150,
+        151,
+        358
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+CBATCHK": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        21,
+        145,
+        209
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        10,
+        16,
+        21,
+        139,
+        199,
+        363
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CBC": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        97
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        21,
+        57,
+        108
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        13,
+        56,
+        103
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CBST": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        15,
+        39,
+        47,
+        51
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        16,
+        48,
+        56,
+        60,
+        382
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        12,
+        46,
+        55,
+        59,
+        363
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CBUZZER": {
+    "V1.01": {
+      "all_pages": [
+        164
+      ],
+      "first_page": 164
+    },
+    "V1.10": {
+      "all_pages": [
+        183
+      ],
+      "first_page": 183
+    }
+  },
+  "AT+CBUZZERRING": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        40,
+        131,
+        164
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        48,
+        144,
+        183
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        47,
+        138,
+        174
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CCALR": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        156
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        144,
+        174
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        138,
+        166
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CCFC": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        52
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        16,
+        56,
+        61
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        12,
+        55,
+        60
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CCID": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        14,
+        130,
+        147
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        15,
+        143,
+        164
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        15,
+        137,
+        157
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CCLK": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        91,
+        138,
+        139
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        16,
+        57,
+        101,
+        153,
+        154
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        13,
+        56,
+        96,
+        97,
+        146,
+        147
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CCODE": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        153
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        143,
+        170,
+        171
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        137,
+        162,
+        163
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CCONCIND": {
+    "V1.10": {
+      "all_pages": [
+        205
+      ],
+      "first_page": 205
+    }
+  },
+  "AT+CCONCINDEX": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        145,
+        205,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        16,
+        138,
+        195,
+        364
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CCPD": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        40,
+        130,
+        150,
+        151
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        16,
+        48,
+        143,
+        168
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        15,
+        47,
+        137,
+        160
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CCVM": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        13,
+        130,
+        141
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        14,
+        143,
+        156,
+        157
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        14,
+        137,
+        150
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CCWA": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        53,
+        54,
+        292,
+        300
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        17,
+        56,
+        63,
+        353,
+        363
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        12,
+        55,
+        61,
+        62,
+        335,
+        344
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+CCWE": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        96,
+        97,
+        292
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        107,
+        353
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        56,
+        102,
+        335
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CDEVICE": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        156
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        144,
+        174
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        138,
+        166
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CDNSCFG": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        192
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        235
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        17,
+        212,
+        224
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CDNSGIP": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        193,
+        295
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        20,
+        222,
+        235,
+        356
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        17,
+        212,
+        225,
+        338
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+CDRIND": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        140,
+        293
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        143,
+        155,
+        354
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        137,
+        148,
+        149,
+        336
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CDSCB": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        136
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        143,
+        151
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        137,
+        144
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CEER": {
+    "V1.01": {
+      "all_pages": [
+        13,
+        47,
+        55,
+        56
+      ],
+      "first_page": 13
+    },
+    "V1.10": {
+      "all_pages": [
+        14,
+        56,
+        64,
+        65
+      ],
+      "first_page": 14
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        12,
+        55,
+        63,
+        64
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CEGPRS": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        19,
+        144,
+        200,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        16,
+        138,
+        190,
+        364
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+CELLIST": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        21,
+        145,
+        207,
+        208,
+        361
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        10,
+        16,
+        138,
+        197,
+        198,
+        342
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CEMNL": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        161,
+        162
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        144,
+        180,
+        181
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        15,
+        138,
+        172
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CENG": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        145,
+        146,
+        293
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        19,
+        20,
+        21,
+        143,
+        161,
+        162,
+        354,
+        360,
+        361
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        9,
+        15,
+        137,
+        154,
+        155,
+        337,
+        341,
+        342
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+CEXBUT": {
+    "V1.10": {
+      "all_pages": [
+        17
+      ],
+      "first_page": 17
+    },
+    "V1.12": {
+      "all_pages": [
+        6
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+CEXTBUT": {
+    "V1.01": {
+      "all_pages": [
+        40,
+        130
+      ],
+      "first_page": 40
+    }
+  },
+  "AT+CEXTERN": {
+    "V1.01": {
+      "all_pages": [
+        165
+      ],
+      "first_page": 165
+    },
+    "V1.10": {
+      "all_pages": [
+        184
+      ],
+      "first_page": 184
+    }
+  },
+  "AT+CEXTERNT": {
+    "V1.01": {
+      "all_pages": [
+        165
+      ],
+      "first_page": 165
+    },
+    "V1.10": {
+      "all_pages": [
+        184
+      ],
+      "first_page": 184
+    }
+  },
+  "AT+CEXTERNTONE": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        165
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        144,
+        184
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        138,
+        175
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CEXTHS": {
+    "V1.01": {
+      "all_pages": [
+        40,
+        130,
+        160
+      ],
+      "first_page": 40
+    },
+    "V1.10": {
+      "all_pages": [
+        17
+      ],
+      "first_page": 17
+    },
+    "V1.12": {
+      "all_pages": [
+        6
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+CFGRI": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        13,
+        40,
+        130,
+        137
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        13,
+        14,
+        21,
+        48,
+        143,
+        152,
+        381
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        9,
+        10,
+        14,
+        21,
+        47,
+        137,
+        145,
+        146,
+        362
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CFUN": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        90,
+        298,
+        299
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        100,
+        101,
+        163,
+        359,
+        362
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        56,
+        95,
+        96,
+        156,
+        340,
+        343
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CGACT": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        14,
+        170,
+        175,
+        305
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        15,
+        210,
+        215,
+        368,
+        369
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        16,
+        201,
+        205,
+        206,
+        349
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CGATT": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        14,
+        170,
+        303,
+        305
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        15,
+        21,
+        210,
+        367,
+        369,
+        370
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        9,
+        16,
+        201,
+        202,
+        348,
+        349,
+        350
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CGCLASS": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        170,
+        177,
+        304
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        210,
+        217,
+        367
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        201,
+        207,
+        208,
+        348
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CGDATA": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        170,
+        175,
+        176,
+        305
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        210,
+        216,
+        369
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        201,
+        206,
+        349
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CGDCONT": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        170,
+        171,
+        304
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        210,
+        211,
+        367,
+        368
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        201,
+        202,
+        348
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CGEREP": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        170,
+        177,
+        178
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        17,
+        210,
+        218
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        16,
+        201,
+        208,
+        209
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CGID": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        151
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        143,
+        168
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        137,
+        161
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CGMI": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        57,
+        58
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        56,
+        67
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        55,
+        65
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+CGMM": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        58
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        56,
+        67
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        55,
+        65
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+CGMR": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        58
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        56,
+        68
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        55,
+        66
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+CGMSCLA": {
+    "V1.01": {
+      "all_pages": [
+        155
+      ],
+      "first_page": 155
+    },
+    "V1.10": {
+      "all_pages": [
+        173
+      ],
+      "first_page": 173
+    }
+  },
+  "AT+CGMSCLASS": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        155
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        144,
+        173
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        138,
+        165
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CGPADDR": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        170,
+        176
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        210,
+        216,
+        217
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        201,
+        207
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CGPIO": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        144,
+        200,
+        201
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        9,
+        16,
+        138,
+        190,
+        191
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+CGQMIN": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        170,
+        172,
+        173,
+        304
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        210,
+        212,
+        213,
+        368
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        201,
+        203,
+        204,
+        349
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CGQREQ": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        170,
+        173,
+        174,
+        304
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        210,
+        213,
+        214,
+        368
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        201,
+        204,
+        205,
+        349
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CGREG": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        15,
+        39,
+        170,
+        178,
+        179
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        16,
+        19,
+        48,
+        210,
+        219,
+        357
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        8,
+        16,
+        47,
+        201,
+        209,
+        210,
+        338
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CGSMS": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        170,
+        179,
+        180
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        210,
+        220
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        201,
+        210,
+        211
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CGSN": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        58,
+        59
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        56,
+        68
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        55,
+        66
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+CHF": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        13,
+        40,
+        130,
+        143,
+        293
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        14,
+        16,
+        18,
+        48,
+        143,
+        158,
+        354
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        5,
+        7,
+        15,
+        47,
+        137,
+        151,
+        152,
+        337
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CHFA": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        143,
+        144
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        13,
+        16,
+        17,
+        18,
+        19,
+        143,
+        159,
+        378
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        6,
+        7,
+        8,
+        10,
+        15,
+        20,
+        137,
+        152,
+        358
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CHLD": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        13,
+        47,
+        60,
+        61,
+        300,
+        301
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        14,
+        56,
+        70,
+        71,
+        363,
+        364,
+        365
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        12,
+        55,
+        68,
+        344,
+        345
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CHUP": {
+    "V1.10": {
+      "all_pages": [
+        39
+      ],
+      "first_page": 39
+    },
+    "V1.12": {
+      "all_pages": [
+        38
+      ],
+      "first_page": 38
+    }
+  },
+  "AT+CIFSR": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        184,
+        190,
+        191,
+        306
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        21,
+        222,
+        225,
+        232,
+        233,
+        370
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        17,
+        212,
+        215,
+        222,
+        350
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CIICR": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        184,
+        190,
+        305
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        17,
+        222,
+        225,
+        232,
+        370
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        17,
+        212,
+        215,
+        221,
+        222,
+        350
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CIMI": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        47,
+        61,
+        299
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        56,
+        71,
+        362
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        55,
+        69,
+        343
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+CIPACK": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        187
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        228
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        212,
+        218
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CIPATS": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        186,
+        194
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        227,
+        237
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        217,
+        226
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPBEIPING": {
+    "V1.10": {
+      "all_pages": [
+        10,
+        19,
+        254,
+        257,
+        258,
+        370,
+        383
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        17,
+        242,
+        245,
+        246,
+        350,
+        364
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+CIPCCFG": {
+    "V1.01": {
+      "all_pages": [
+        13,
+        181,
+        199
+      ],
+      "first_page": 13
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        14,
+        18,
+        222,
+        242,
+        243
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        6,
+        9,
+        17,
+        212,
+        231,
+        232
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CIPCLOSE": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        187,
+        188
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        21,
+        222,
+        229
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        16,
+        212,
+        218,
+        219
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CIPCSGP": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        196
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        239
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        228,
+        229
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPCTL": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        208,
+        209,
+        210,
+        306
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        254,
+        255,
+        256,
+        371
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        242,
+        243,
+        244,
+        351
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPDPDP": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        181,
+        198
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        17,
+        222,
+        241
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        9,
+        17,
+        212,
+        230
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CIPFLT": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        208,
+        210,
+        306
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        254,
+        256,
+        257,
+        370,
+        371
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        242,
+        244,
+        245,
+        351
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPGSMLOC": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        236,
+        307
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        19,
+        291,
+        371
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        10
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+CIPHEAD": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        13,
+        181,
+        193,
+        194,
+        295
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        14,
+        222,
+        236,
+        356
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        17,
+        212,
+        225,
+        226,
+        338
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CIPMODE": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        181,
+        198,
+        199
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        242
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        231
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPMUX": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        182
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        223
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        212,
+        213,
+        214
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CIPPING": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        208,
+        306
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        254,
+        370
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        242,
+        350,
+        351
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPQSEND": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        186
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        227,
+        228
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        212,
+        217
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CIPRDTIM": {
+    "V1.01": {
+      "all_pages": [
+        205
+      ],
+      "first_page": 205
+    },
+    "V1.10": {
+      "all_pages": [
+        249
+      ],
+      "first_page": 249
+    }
+  },
+  "AT+CIPRDTIMER": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        182,
+        204
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        248
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        10,
+        17,
+        212,
+        237
+      ],
+      "first_page": 10
+    }
+  },
+  "AT+CIPRXGET": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        13,
+        181,
+        202
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        14,
+        17,
+        222,
+        245,
+        246
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        5,
+        17,
+        212,
+        234,
+        235
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CIPSCONT": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        181,
+        204
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        247,
+        248
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        236
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPSEND": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        184,
+        185,
+        186,
+        195
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        225,
+        226,
+        227,
+        238
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        212,
+        215,
+        216,
+        217,
+        227
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CIPSERVE": {
+    "V1.01": {
+      "all_pages": [
+        195,
+        196
+      ],
+      "first_page": 195
+    },
+    "V1.10": {
+      "all_pages": [
+        238,
+        239
+      ],
+      "first_page": 238
+    }
+  },
+  "AT+CIPSERVER": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        195
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        238
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        227,
+        228
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPSGTXT": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        182,
+        205
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        249
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        237,
+        238
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPSHOWTP": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        181,
+        200,
+        295
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        244,
+        356
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        232,
+        233,
+        338
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPSHUT": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        184,
+        188,
+        198
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        17,
+        222,
+        225,
+        229,
+        230,
+        242
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        16,
+        212,
+        215,
+        219,
+        231
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CIPSPRT": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        195
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        238
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        227
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPSRIP": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        13,
+        181,
+        197,
+        202,
+        203,
+        295
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        14,
+        222,
+        240,
+        246,
+        356
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        17,
+        212,
+        229,
+        235,
+        338
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CIPSTART": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        13,
+        181,
+        182,
+        183,
+        295
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        14,
+        19,
+        222,
+        223,
+        224,
+        356
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        7,
+        16,
+        212,
+        213,
+        214,
+        338
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CIPSTATU": {
+    "V1.01": {
+      "all_pages": [
+        191
+      ],
+      "first_page": 191
+    },
+    "V1.10": {
+      "all_pages": [
+        233
+      ],
+      "first_page": 233
+    }
+  },
+  "AT+CIPSTATUS": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        191
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        229,
+        233
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        219,
+        222,
+        223
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIPTKA": {
+    "V1.10": {
+      "all_pages": [
+        9,
+        19,
+        222,
+        251
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        17,
+        213,
+        238
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+CIPUDPMOD": {
+    "V1.01": {
+      "all_pages": [
+        201
+      ],
+      "first_page": 201
+    },
+    "V1.10": {
+      "all_pages": [
+        244,
+        245
+      ],
+      "first_page": 244
+    }
+  },
+  "AT+CIPUDPMODE": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        181,
+        201
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        244
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        212,
+        233,
+        234
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+CIURC": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        15,
+        40,
+        131,
+        153,
+        154,
+        295
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        16,
+        19,
+        48,
+        143,
+        171,
+        355
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        5,
+        8,
+        15,
+        47,
+        137,
+        163,
+        337
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CLCC": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        15,
+        25,
+        47,
+        62,
+        293,
+        300
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        16,
+        31,
+        56,
+        72,
+        354,
+        364
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        30,
+        55,
+        70,
+        336,
+        344,
+        345
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CLCK": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        47,
+        63,
+        64,
+        154
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        13,
+        15,
+        21,
+        56,
+        73,
+        74,
+        172,
+        382
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        9,
+        10,
+        13,
+        21,
+        55,
+        71,
+        164,
+        362
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CLDTMF": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        139,
+        140,
+        301
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        17,
+        18,
+        143,
+        154,
+        155,
+        365
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        7,
+        14,
+        137,
+        148,
+        346
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+CLIP": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        13,
+        47,
+        65,
+        292
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        14,
+        56,
+        75,
+        353
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        13,
+        55,
+        73,
+        335
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CLIR": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        47,
+        66,
+        67
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        56,
+        76,
+        77
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        55,
+        74
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CLIST": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        21,
+        145,
+        208,
+        209
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        16,
+        139,
+        198,
+        199
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CLPORT": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        188,
+        189
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        222,
+        230,
+        231
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        16,
+        212,
+        220
+      ],
+      "first_page": 16
+    }
+  },
+  "AT+CLTS": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        39,
+        130,
+        138,
+        139,
+        293
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        21,
+        48,
+        143,
+        152,
+        153,
+        154,
+        354
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        14,
+        47,
+        137,
+        146,
+        147,
+        336
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CLVL": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        15,
+        48,
+        94
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        16,
+        57,
+        104,
+        105
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        56,
+        100
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CMEDIAVO": {
+    "V1.10": {
+      "all_pages": [
+        202,
+        203
+      ],
+      "first_page": 202
+    }
+  },
+  "AT+CMEDIAVOL": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        145,
+        202
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        16,
+        138,
+        192
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+CMEDPLA": {
+    "V1.10": {
+      "all_pages": [
+        201
+      ],
+      "first_page": 201
+    }
+  },
+  "AT+CMEDPLAY": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        21,
+        144,
+        201,
+        202
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        9,
+        16,
+        138,
+        191,
+        192
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+CMEE": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        40,
+        47,
+        67,
+        68,
+        297
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        48,
+        56,
+        77,
+        78,
+        358
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        47,
+        55,
+        75,
+        339
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CMGD": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        302,
+        308
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        366,
+        373
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        107,
+        108,
+        347,
+        352,
+        353
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CMGDA": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        148
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        143,
+        165
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        137,
+        157,
+        158
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CMGF": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        40,
+        101,
+        102,
+        302
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        48,
+        112,
+        113,
+        114,
+        365
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        47,
+        107,
+        108,
+        109,
+        346
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CMGHEX": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        152
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        143,
+        170
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        137,
+        162
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CMGL": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        103,
+        106,
+        302,
+        303
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        114,
+        117,
+        366
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        107,
+        109,
+        112,
+        346,
+        347
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CMGR": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        106,
+        302
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        117,
+        365,
+        366
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        107,
+        112,
+        346
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CMGS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        109,
+        302,
+        303
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        16,
+        112,
+        120,
+        365,
+        366
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        14,
+        107,
+        115,
+        346,
+        347
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CMGW": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        110,
+        111
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        121,
+        122
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        107,
+        116,
+        117
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CMIC": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        13,
+        130,
+        133
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        13,
+        14,
+        17,
+        18,
+        19,
+        143,
+        146,
+        147,
+        377
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        6,
+        7,
+        8,
+        10,
+        14,
+        20,
+        137,
+        140,
+        141,
+        357
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CMICBIAS": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        13,
+        131,
+        168,
+        169
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        14,
+        16,
+        17,
+        144,
+        188,
+        189
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        5,
+        6,
+        15,
+        138,
+        179
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CMMSBCC": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        266,
+        267
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        323
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        308
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSCC": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        266
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        322,
+        323
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        307
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSCID": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        260,
+        307
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        314,
+        316,
+        372
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        301,
+        352
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSCURL": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        259,
+        307
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        314,
+        315,
+        372
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        300,
+        351
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSDELBC": {
+    "V1.01": {
+      "all_pages": [
+        268,
+        269
+      ],
+      "first_page": 268
+    },
+    "V1.10": {
+      "all_pages": [
+        325
+      ],
+      "first_page": 325
+    }
+  },
+  "AT+CMMSDELBCC": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        268
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        325
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        309,
+        310
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSDELCC": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        268
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        324,
+        325
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        309
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSDELFI": {
+    "V1.01": {
+      "all_pages": [
+        264
+      ],
+      "first_page": 264
+    },
+    "V1.10": {
+      "all_pages": [
+        320,
+        321
+      ],
+      "first_page": 320
+    }
+  },
+  "AT+CMMSDELFILE": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        264
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        320
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        305
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSDELRE": {
+    "V1.01": {
+      "all_pages": [
+        267
+      ],
+      "first_page": 267
+    },
+    "V1.10": {
+      "all_pages": [
+        324
+      ],
+      "first_page": 324
+    }
+  },
+  "AT+CMMSDELRECP": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        267
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        324
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        308,
+        309
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSDOWN": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        263,
+        307,
+        308
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        13,
+        20,
+        21,
+        314,
+        319,
+        320,
+        372,
+        381
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        10,
+        19,
+        21,
+        299,
+        304,
+        352,
+        361
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CMMSEDIT": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        262,
+        263,
+        307,
+        308
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        314,
+        318,
+        319,
+        372,
+        373
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        303,
+        304,
+        352
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSINIT": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        276,
+        307
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        333,
+        372
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        317,
+        351
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSPROFI": {
+    "V1.01": {
+      "all_pages": [
+        274
+      ],
+      "first_page": 274
+    },
+    "V1.10": {
+      "all_pages": [
+        331
+      ],
+      "first_page": 331
+    }
+  },
+  "AT+CMMSPROFILE": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        273
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        331
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        315
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSPROTO": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        259,
+        260,
+        307
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        314,
+        315,
+        316,
+        372
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        300,
+        301,
+        352
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSRDPUS": {
+    "V1.01": {
+      "all_pages": [
+        271,
+        272
+      ],
+      "first_page": 271
+    },
+    "V1.10": {
+      "all_pages": [
+        328,
+        329
+      ],
+      "first_page": 328
+    }
+  },
+  "AT+CMMSRDPUSH": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        271
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        328
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        313
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSREAD": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        271,
+        308
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        21,
+        314,
+        328,
+        373
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        10,
+        19,
+        299,
+        312,
+        353
+      ],
+      "first_page": 10
+    }
+  },
+  "AT+CMMSRECP": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        265,
+        308
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        322,
+        372
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        306,
+        352
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSRECV": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        14,
+        15,
+        258,
+        269,
+        271,
+        308
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        15,
+        314,
+        326,
+        328,
+        372,
+        373
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        19,
+        299,
+        310,
+        312,
+        352,
+        353
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CMMSSCONT": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        14,
+        258,
+        259,
+        260,
+        261,
+        262,
+        273,
+        274,
+        275,
+        276,
+        277
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        15,
+        314,
+        315,
+        316,
+        317,
+        318,
+        330,
+        331,
+        332,
+        334
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        19,
+        299,
+        300,
+        301,
+        302,
+        303,
+        314,
+        315,
+        316,
+        318
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CMMSSEND": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        15,
+        258,
+        264,
+        265,
+        308
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        15,
+        314,
+        321,
+        372
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        19,
+        299,
+        306,
+        352
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CMMSSENDC": {
+    "V1.01": {
+      "all_pages": [
+        261
+      ],
+      "first_page": 261
+    },
+    "V1.10": {
+      "all_pages": [
+        317,
+        372
+      ],
+      "first_page": 317
+    }
+  },
+  "AT+CMMSSENDCF": {
+    "V1.01": {
+      "all_pages": [
+        307
+      ],
+      "first_page": 307
+    }
+  },
+  "AT+CMMSSENDCFG": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        261
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        314,
+        317
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        302,
+        352
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSSTATU": {
+    "V1.01": {
+      "all_pages": [
+        275
+      ],
+      "first_page": 275
+    },
+    "V1.10": {
+      "all_pages": [
+        332
+      ],
+      "first_page": 332
+    }
+  },
+  "AT+CMMSSTATUS": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        275
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        332
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        316
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSTERM": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        276,
+        308
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        333,
+        334,
+        373
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        317,
+        353
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSTIMEO": {
+    "V1.01": {
+      "all_pages": [
+        274,
+        275
+      ],
+      "first_page": 274
+    },
+    "V1.10": {
+      "all_pages": [
+        331,
+        332
+      ],
+      "first_page": 331
+    }
+  },
+  "AT+CMMSTIMEOUT": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        14,
+        258,
+        265,
+        269,
+        274
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        15,
+        314,
+        321,
+        327,
+        331
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        19,
+        299,
+        306,
+        311,
+        315,
+        316
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CMMSUA": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        273
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        330
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        314
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMMSVIEW": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        258,
+        270,
+        271
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        314,
+        321,
+        327,
+        328
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        299,
+        305,
+        311,
+        312
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+CMNRP": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        19,
+        49,
+        144,
+        199,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        16,
+        47,
+        138,
+        189,
+        364
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+CMOD": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        137
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        143,
+        151,
+        382
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        137,
+        145,
+        363
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CMSS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        111
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        123
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        107,
+        117,
+        118
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CMTE": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        40,
+        130,
+        147,
+        294
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        16,
+        21,
+        48,
+        143,
+        164,
+        165,
+        355
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        10
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CMUT": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        95
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        105,
+        106
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        56,
+        101
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CMUX": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        86,
+        87
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        96,
+        97
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        13,
+        56,
+        92,
+        93
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CN": {
+    "V1.12": {
+      "all_pages": [
+        8
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+CNETLIGH": {
+    "V1.01": {
+      "all_pages": [
+        165
+      ],
+      "first_page": 165
+    },
+    "V1.10": {
+      "all_pages": [
+        184,
+        185
+      ],
+      "first_page": 184
+    }
+  },
+  "AT+CNETLIGHT": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        40,
+        131,
+        165
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        16,
+        49,
+        144,
+        184
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        15,
+        47,
+        138,
+        175,
+        176
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CNETSCA": {
+    "V1.10": {
+      "all_pages": [
+        198
+      ],
+      "first_page": 198
+    }
+  },
+  "AT+CNETSCAN": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        18,
+        19,
+        144,
+        198
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        7,
+        16,
+        138,
+        188
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+CNMI": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        40,
+        101,
+        112,
+        113,
+        292
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        18,
+        19,
+        48,
+        112,
+        124,
+        353,
+        354
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        14,
+        47,
+        107,
+        118,
+        119,
+        335,
+        336
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+CNUM": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        87,
+        88
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        97
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        56,
+        93
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+COLP": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        24,
+        47,
+        68,
+        293
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        30,
+        56,
+        78,
+        79,
+        354
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        30,
+        55,
+        76,
+        336
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+COPN": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        48,
+        89,
+        299
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        15,
+        57,
+        99,
+        362
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        56,
+        95,
+        343
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+COPS": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        47,
+        69,
+        70,
+        299
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        15,
+        56,
+        80,
+        362
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        55,
+        77,
+        78,
+        343
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CPAS": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        47,
+        71
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        56,
+        81
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        55,
+        78,
+        79
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CPBF": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        47,
+        71,
+        72,
+        299
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        15,
+        56,
+        82,
+        360
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        55,
+        79,
+        341
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CPBR": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        47,
+        73,
+        298,
+        299
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        15,
+        56,
+        83,
+        359,
+        360
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        55,
+        80,
+        340,
+        341
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CPBS": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        15,
+        47,
+        73,
+        74,
+        298
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        16,
+        17,
+        19,
+        56,
+        84,
+        359
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        6,
+        8,
+        13,
+        55,
+        81,
+        340
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CPBW": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        15,
+        47,
+        74,
+        75,
+        298,
+        299
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        16,
+        56,
+        85,
+        359,
+        360
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        13,
+        55,
+        82,
+        340,
+        341
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CPCMCFG": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        16,
+        18,
+        144,
+        192,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        7,
+        15,
+        138,
+        182,
+        363
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CPCMSYN": {
+    "V1.10": {
+      "all_pages": [
+        192,
+        193
+      ],
+      "first_page": 192
+    }
+  },
+  "AT+CPCMSYNC": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        16,
+        19,
+        144,
+        192,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        7,
+        15,
+        138,
+        183,
+        363
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CPIN": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        47,
+        75,
+        76,
+        294
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        15,
+        56,
+        86,
+        87,
+        355
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        55,
+        83,
+        84,
+        337
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CPMS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        115
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        126,
+        127
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        107,
+        121
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CPOL": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        48,
+        88,
+        89
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        15,
+        57,
+        98,
+        99
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        56,
+        94
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CPOWD": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        130,
+        132,
+        294
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        143,
+        146,
+        355
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        137,
+        140,
+        337
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CPSPWD": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        154
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        144,
+        172
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        137,
+        164
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+CPUC": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        48,
+        95,
+        96
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        15,
+        57,
+        106
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        56,
+        101,
+        102
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CPWD": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        47,
+        76,
+        77
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        15,
+        56,
+        87,
+        88
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        55,
+        84
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CR": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        47,
+        77,
+        78,
+        294
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        56,
+        88,
+        89,
+        355
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        55,
+        85,
+        337
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CRC": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        78,
+        79,
+        292
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        56,
+        89,
+        90,
+        353
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        55,
+        86,
+        335
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CREC": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        14,
+        279,
+        280,
+        310,
+        311
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21,
+        338,
+        339,
+        341,
+        374,
+        375,
+        380
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        20,
+        321,
+        322,
+        324,
+        354,
+        355,
+        360
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CRECORD": {
+    "V1.10": {
+      "all_pages": [
+        12,
+        17,
+        338,
+        341,
+        342
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        20,
+        321,
+        324,
+        325
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CREG": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        15,
+        39,
+        48,
+        79,
+        292
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        16,
+        48,
+        56,
+        90,
+        91,
+        353
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        13,
+        47,
+        55,
+        87,
+        335
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CRES": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        13,
+        101,
+        116
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        14,
+        112,
+        127,
+        128
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        14,
+        107,
+        122
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CRLP": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        39,
+        48,
+        80,
+        81
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        16,
+        48,
+        56,
+        92
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        13,
+        46,
+        55,
+        88
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CROAMIN": {
+    "V1.10": {
+      "all_pages": [
+        197
+      ],
+      "first_page": 197
+    }
+  },
+  "AT+CROAMING": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        18,
+        19,
+        144,
+        197
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        7,
+        16,
+        138,
+        188
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+CRSL": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        13,
+        15,
+        48,
+        93,
+        94
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        14,
+        16,
+        57,
+        104
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        4,
+        13,
+        56,
+        99,
+        100
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CRSM": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        81
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        92,
+        93
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        55,
+        89
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CSAS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        13,
+        101,
+        116,
+        117
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        14,
+        112,
+        128,
+        129
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        14,
+        107,
+        123
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CSCA": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        117
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        129
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        107,
+        123,
+        124
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CSCB": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        118,
+        119,
+        136
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        130,
+        131,
+        151
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        107,
+        124,
+        125,
+        144
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CSCLK": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        40,
+        130,
+        144
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        13,
+        16,
+        20,
+        48,
+        143,
+        160,
+        380,
+        381
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        8,
+        10,
+        15,
+        21,
+        47,
+        137,
+        153,
+        361
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CSCS": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        15,
+        18,
+        40,
+        47,
+        59,
+        153,
+        297,
+        302,
+        303
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        16,
+        24,
+        48,
+        56,
+        69,
+        106,
+        170,
+        358,
+        365,
+        366
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        12,
+        24,
+        47,
+        55,
+        67,
+        102,
+        162,
+        339,
+        346,
+        347
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CSDH": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        119
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        131
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        107,
+        125,
+        126
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CSDT": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        12,
+        40,
+        166,
+        167,
+        313
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        16,
+        49,
+        144,
+        186
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        9,
+        15,
+        47,
+        138,
+        177
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CSGS": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        13,
+        40,
+        131,
+        168
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        8,
+        14,
+        16,
+        20,
+        49,
+        144,
+        188
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        5,
+        8,
+        15,
+        47,
+        138,
+        178,
+        179
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+CSIM": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        91
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        101,
+        102
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        56,
+        97
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CSMINS": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        12,
+        15,
+        40,
+        167,
+        293,
+        313
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        16,
+        49,
+        144,
+        187,
+        354
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        15,
+        47,
+        138,
+        178,
+        336
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+CSMP": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        120,
+        303
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        21,
+        112,
+        132,
+        366
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        14,
+        107,
+        126,
+        347
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CSMS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        101,
+        121
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        112,
+        133
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        107,
+        127
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CSNS": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        136
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        18,
+        49,
+        143,
+        150
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        14,
+        47,
+        137,
+        144
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+CSPN": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        141
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        143,
+        156
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        137,
+        149
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+CSQ": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        82,
+        155
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        93,
+        94,
+        163,
+        173
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        56,
+        90,
+        156,
+        165
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CSSN": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        98,
+        99,
+        293
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        109,
+        110,
+        354
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        56,
+        104,
+        105,
+        336
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CSTA": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        47,
+        60
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        56,
+        70
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        55,
+        67,
+        68
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+CSTT": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        181,
+        184,
+        189,
+        190,
+        305
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        21,
+        222,
+        225,
+        231,
+        232,
+        370
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        17,
+        212,
+        215,
+        221,
+        350
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+CTTS": {
+    "V1.01": {
+      "all_pages": [
+        12,
+        283,
+        311,
+        312
+      ],
+      "first_page": 12
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        21,
+        343,
+        376
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        10,
+        20,
+        326,
+        356
+      ],
+      "first_page": 10
+    }
+  },
+  "AT+CTTSPARAM": {
+    "V1.01": {
+      "all_pages": [
+        12,
+        14,
+        283,
+        284,
+        312
+      ],
+      "first_page": 12
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        13,
+        15,
+        17,
+        343,
+        344,
+        376,
+        380
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        5,
+        6,
+        20,
+        326,
+        327,
+        356,
+        360
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+CTTSRING": {
+    "V1.10": {
+      "all_pages": [
+        12,
+        18,
+        343,
+        345
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        20,
+        326,
+        328
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+CUSD": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        98,
+        294
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        57,
+        108,
+        109,
+        355
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        56,
+        103,
+        104,
+        337
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+CWHITELI": {
+    "V1.01": {
+      "all_pages": [
+        166
+      ],
+      "first_page": 166
+    },
+    "V1.10": {
+      "all_pages": [
+        185
+      ],
+      "first_page": 185
+    }
+  },
+  "AT+CWHITELIST": {
+    "V1.01": {
+      "all_pages": [
+        8,
+        131,
+        166
+      ],
+      "first_page": 8
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        20,
+        144,
+        185
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        15,
+        138,
+        176
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+DDET": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        40,
+        278,
+        308
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        12,
+        17,
+        18,
+        19,
+        21,
+        48,
+        336,
+        373,
+        374
+      ],
+      "first_page": 12
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        6,
+        7,
+        10,
+        20,
+        47,
+        319,
+        353,
+        354
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+DLYRI": {
+    "V1.12": {
+      "all_pages": [
+        10,
+        16,
+        139,
+        200
+      ],
+      "first_page": 10
+    }
+  },
+  "AT+DTAM": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        16,
+        144,
+        155,
+        189,
+        190
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        15,
+        138,
+        148,
+        180
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+ECHARGE": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        49,
+        145,
+        203,
+        204,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        16,
+        47,
+        138,
+        193,
+        194,
+        364
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+ECHO": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        158
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        144,
+        177
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        138,
+        168,
+        169
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+EMAILCID": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        239
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        294
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        279,
+        280
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+EMAILTO": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        239,
+        240
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        294,
+        295
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        279,
+        280,
+        281
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+EXUNSOL": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        40,
+        131,
+        154,
+        155,
+        294
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        49,
+        144,
+        172,
+        173,
+        355
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        47,
+        137,
+        164,
+        337
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+FCLASS": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        40,
+        48,
+        83
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        16,
+        18
+      ],
+      "first_page": 16
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        6
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+FMI": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        83
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        18
+      ],
+      "first_page": 18
+    },
+    "V1.12": {
+      "all_pages": [
+        6
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+FMM": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        84
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        18
+      ],
+      "first_page": 18
+    },
+    "V1.12": {
+      "all_pages": [
+        6
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+FMR": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        48,
+        84
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        18
+      ],
+      "first_page": 18
+    },
+    "V1.12": {
+      "all_pages": [
+        7
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+FSDRIVE": {
+    "V1.10": {
+      "all_pages": [
+        286
+      ],
+      "first_page": 286
+    },
+    "V1.12": {
+      "all_pages": [
+        274
+      ],
+      "first_page": 274
+    }
+  },
+  "AT+FSHEX": {
+    "V1.10": {
+      "all_pages": [
+        49
+      ],
+      "first_page": 49
+    },
+    "V1.12": {
+      "all_pages": [
+        47
+      ],
+      "first_page": 47
+    }
+  },
+  "AT+FTPCID": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        220,
+        223
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        271,
+        272
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        260
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPDELE": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        231,
+        295
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        280,
+        281,
+        356
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        269,
+        338
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPEXTGE": {
+    "V1.10": {
+      "all_pages": [
+        288
+      ],
+      "first_page": 288
+    }
+  },
+  "AT+FTPEXTGET": {
+    "V1.10": {
+      "all_pages": [
+        10,
+        19,
+        268,
+        288
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        10,
+        18,
+        257,
+        275,
+        276,
+        277
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+FTPEXTPUT": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        232,
+        233
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        282,
+        283
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        271
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPFILEPU": {
+    "V1.10": {
+      "all_pages": [
+        289
+      ],
+      "first_page": 289
+    }
+  },
+  "AT+FTPFILEPUT": {
+    "V1.10": {
+      "all_pages": [
+        11,
+        19,
+        268,
+        289
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        18,
+        257,
+        277
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+FTPGET": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        295
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        19,
+        268,
+        277,
+        278,
+        279,
+        281,
+        282,
+        283,
+        284,
+        285,
+        356
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        18,
+        257,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        338
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+FTPGETNA": {
+    "V1.01": {
+      "all_pages": [
+        226
+      ],
+      "first_page": 226
+    },
+    "V1.10": {
+      "all_pages": [
+        275
+      ],
+      "first_page": 275
+    }
+  },
+  "AT+FTPGETNAME": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        225,
+        231,
+        232
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        275,
+        281,
+        282
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        263,
+        264,
+        269,
+        270
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPGETPA": {
+    "V1.01": {
+      "all_pages": [
+        226
+      ],
+      "first_page": 226
+    },
+    "V1.10": {
+      "all_pages": [
+        275
+      ],
+      "first_page": 275
+    }
+  },
+  "AT+FTPGETPATH": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        226,
+        231,
+        232,
+        234
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        275,
+        281,
+        282,
+        284
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        264,
+        269,
+        270,
+        272
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPGETTO": {
+    "V1.10": {
+      "all_pages": [
+        285,
+        286
+      ],
+      "first_page": 285
+    }
+  },
+  "AT+FTPGETTOFS": {
+    "V1.10": {
+      "all_pages": [
+        10,
+        18,
+        19,
+        268,
+        285
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        7,
+        8,
+        18,
+        257,
+        273,
+        274
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+FTPLIST": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        14,
+        220,
+        234,
+        235,
+        296
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        15,
+        19,
+        268,
+        284,
+        285,
+        356
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        7,
+        18,
+        257,
+        272,
+        273,
+        338
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+FTPMKD": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        233,
+        295
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        283,
+        356
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        271,
+        338
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPMOD": {
+    "V1.01": {
+      "all_pages": [
+        221
+      ],
+      "first_page": 221
+    }
+  },
+  "AT+FTPMODE": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        220,
+        221
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        19,
+        268,
+        269
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        18,
+        257,
+        258,
+        259
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+FTPPORT": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        220,
+        221
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        269
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        258
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPPUT": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        229,
+        230,
+        233,
+        295
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        278,
+        279,
+        283,
+        356
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        267,
+        268,
+        271,
+        338
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPPUTFR": {
+    "V1.10": {
+      "all_pages": [
+        287
+      ],
+      "first_page": 287
+    }
+  },
+  "AT+FTPPUTFRMFS": {
+    "V1.10": {
+      "all_pages": [
+        10,
+        19,
+        268,
+        286
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        18,
+        257,
+        274,
+        275
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+FTPPUTNA": {
+    "V1.01": {
+      "all_pages": [
+        227
+      ],
+      "first_page": 227
+    },
+    "V1.10": {
+      "all_pages": [
+        276
+      ],
+      "first_page": 276
+    }
+  },
+  "AT+FTPPUTNAME": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        227
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        276
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        264,
+        265
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPPUTOP": {
+    "V1.01": {
+      "all_pages": [
+        222
+      ],
+      "first_page": 222
+    },
+    "V1.10": {
+      "all_pages": [
+        271
+      ],
+      "first_page": 271
+    }
+  },
+  "AT+FTPPUTOPT": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        220,
+        222
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        271
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        259,
+        260
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPPUTPA": {
+    "V1.01": {
+      "all_pages": [
+        227
+      ],
+      "first_page": 227
+    },
+    "V1.10": {
+      "all_pages": [
+        277
+      ],
+      "first_page": 277
+    }
+  },
+  "AT+FTPPUTPATH": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        227
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        276
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        265
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPPW": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        225
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        274
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        263
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPQUIT": {
+    "V1.10": {
+      "all_pages": [
+        11,
+        19,
+        268,
+        290
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        18,
+        257,
+        277,
+        278
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+FTPREST": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        220,
+        223,
+        224
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        272
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        261
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPRMD": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        234,
+        295
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        284,
+        356
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        272,
+        338
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPSCONT": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        230
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        279,
+        280
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        268,
+        269
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPSERV": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        224
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        272,
+        273
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        261,
+        262
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPSIZE": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        231,
+        295
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        281,
+        356
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        269,
+        270,
+        338
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPSTATE": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        232
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        282
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        270
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPTYPE": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        220,
+        222
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        270
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        259
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTPUN": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        220,
+        224,
+        225
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        268,
+        273
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        257,
+        262
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+FTSIZE": {
+    "V1.01": {
+      "all_pages": [
+        231
+      ],
+      "first_page": 231
+    }
+  },
+  "AT+GCAP": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        22,
+        40
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        28,
+        49
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        28,
+        48
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+GMI": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        22,
+        41
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        28,
+        49,
+        50
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        28,
+        48
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+GMM": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        22,
+        41
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        28,
+        50
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        28,
+        48,
+        49
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+GMR": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        22,
+        41,
+        42
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        28,
+        50
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        28,
+        49
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+GOI": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        22,
+        42
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        28,
+        51
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        28,
+        49
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+GSMBUSY": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        161
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        144,
+        180
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        138,
+        171
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+GSN": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        22,
+        42
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        28,
+        51
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        28,
+        50
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+GSV": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        156,
+        297
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        144,
+        175,
+        358
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        138,
+        166,
+        167,
+        339
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+HTTPACTI": {
+    "V1.01": {
+      "all_pages": [
+        215
+      ],
+      "first_page": 215
+    },
+    "V1.10": {
+      "all_pages": [
+        262,
+        263
+      ],
+      "first_page": 262
+    }
+  },
+  "AT+HTTPACTIO": {
+    "V1.01": {
+      "all_pages": [
+        295
+      ],
+      "first_page": 295
+    },
+    "V1.10": {
+      "all_pages": [
+        356
+      ],
+      "first_page": 356
+    }
+  },
+  "AT+HTTPACTION": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        212,
+        215,
+        217
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        21,
+        259,
+        262,
+        265,
+        267
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        10,
+        17,
+        247,
+        250,
+        251,
+        252,
+        253,
+        255,
+        338
+      ],
+      "first_page": 10
+    }
+  },
+  "AT+HTTPDATA": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        212,
+        214,
+        215,
+        217
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        259,
+        262,
+        265
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        247,
+        250,
+        252,
+        253
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+HTTPGETHEAD": {
+    "V1.12": {
+      "all_pages": [
+        10,
+        18,
+        247,
+        255,
+        256
+      ],
+      "first_page": 10
+    }
+  },
+  "AT+HTTPHEAD": {
+    "V1.10": {
+      "all_pages": [
+        10,
+        20,
+        259,
+        267,
+        383
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        18,
+        247,
+        255,
+        364
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+HTTPINIT": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        212
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        259,
+        266
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        247,
+        254
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+HTTPPARA": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        212,
+        213
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        259,
+        260
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        247,
+        248
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+HTTPREA": {
+    "V1.01": {
+      "all_pages": [
+        217
+      ],
+      "first_page": 217
+    },
+    "V1.10": {
+      "all_pages": [
+        264,
+        265
+      ],
+      "first_page": 264
+    }
+  },
+  "AT+HTTPREAD": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        212,
+        217
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        259,
+        264
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        247,
+        252,
+        253
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+HTTPSCON": {
+    "V1.01": {
+      "all_pages": [
+        218
+      ],
+      "first_page": 218
+    },
+    "V1.10": {
+      "all_pages": [
+        265,
+        266
+      ],
+      "first_page": 265
+    }
+  },
+  "AT+HTTPSCONT": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        212,
+        218
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        259,
+        265
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        247,
+        253,
+        254
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+HTTPSTAT": {
+    "V1.01": {
+      "all_pages": [
+        219
+      ],
+      "first_page": 219
+    },
+    "V1.10": {
+      "all_pages": [
+        266
+      ],
+      "first_page": 266
+    }
+  },
+  "AT+HTTPSTATUS": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        212,
+        219
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        259,
+        266
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        247,
+        254
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+HTTPTER": {
+    "V1.01": {
+      "all_pages": [
+        212,
+        213
+      ],
+      "first_page": 212
+    },
+    "V1.10": {
+      "all_pages": [
+        260
+      ],
+      "first_page": 260
+    }
+  },
+  "AT+HTTPTERM": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        212
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        10,
+        259,
+        260
+      ],
+      "first_page": 10
+    },
+    "V1.12": {
+      "all_pages": [
+        17,
+        247,
+        248
+      ],
+      "first_page": 17
+    }
+  },
+  "AT+HVOIC": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        22,
+        46
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        28,
+        55
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        28,
+        54
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+ICF": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        22,
+        40,
+        43
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        28,
+        49,
+        52,
+        53,
+        382
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        28,
+        47,
+        50,
+        51,
+        363
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+IFC": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        19,
+        22,
+        40,
+        44
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        25,
+        28,
+        49,
+        53
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        12,
+        25,
+        28,
+        47,
+        51
+      ],
+      "first_page": 12
+    }
+  },
+  "AT+IPR": {
+    "V1.01": {
+      "all_pages": [
+        4,
+        22,
+        40,
+        44,
+        45,
+        294,
+        295,
+        298,
+        299
+      ],
+      "first_page": 4
+    },
+    "V1.10": {
+      "all_pages": [
+        4,
+        17,
+        28,
+        49,
+        54,
+        55,
+        355,
+        356,
+        359,
+        362
+      ],
+      "first_page": 4
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        12,
+        28,
+        47,
+        52,
+        53,
+        337,
+        340,
+        343
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+MORING": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        40,
+        131,
+        151,
+        152,
+        294
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        48,
+        143,
+        169,
+        355
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        47,
+        137,
+        161,
+        337
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+POP3CMD": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        252
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        308
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        293
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+POP3DEL": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        238,
+        255
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        311
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        296
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+POP3IN": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        249
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        19,
+        293,
+        305
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        19,
+        279,
+        290
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+POP3LIST": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        250
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        306
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        291
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+POP3NUM": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        249,
+        250
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        305,
+        306
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        291
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+POP3OUT": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        238,
+        254,
+        256
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        19,
+        293,
+        311,
+        313
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        19,
+        279,
+        295,
+        297
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+POP3READ": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        238,
+        253,
+        254
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        310,
+        311
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        295,
+        296
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+POP3RSET": {
+    "V1.01": {
+      "all_pages": [
+        11,
+        238,
+        255,
+        256
+      ],
+      "first_page": 11
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        312
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        297
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+POP3SRV": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        248
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        304
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        289
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+POP3UIDL": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        251
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        307
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        292
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+SAPBR": {
+    "V1.01": {
+      "all_pages": [
+        9,
+        14,
+        206,
+        223,
+        236,
+        239,
+        261,
+        306,
+        307
+      ],
+      "first_page": 9
+    },
+    "V1.10": {
+      "all_pages": [
+        9,
+        15,
+        252,
+        272,
+        291,
+        294,
+        317,
+        371,
+        372
+      ],
+      "first_page": 9
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        17,
+        240,
+        260,
+        280,
+        301,
+        352
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+SCLASS0": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        130,
+        146,
+        147
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        143,
+        163,
+        164
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        15,
+        137,
+        156,
+        157
+      ],
+      "first_page": 15
+    }
+  },
+  "AT+SD2PCM": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        17,
+        19,
+        49,
+        144,
+        195,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        7,
+        15,
+        47,
+        138,
+        185,
+        364
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+SDMODE": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        145,
+        206,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        16,
+        138,
+        196,
+        364
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+SGPIO": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        12,
+        131,
+        157,
+        313
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        13,
+        18,
+        19,
+        20,
+        144,
+        175,
+        379,
+        383
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        7,
+        8,
+        10,
+        15,
+        20,
+        138,
+        167,
+        359,
+        363
+      ],
+      "first_page": 7
+    }
+  },
+  "AT+SIDET": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        130,
+        131,
+        132
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        13,
+        17,
+        18,
+        143,
+        145,
+        377
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        7,
+        14,
+        20,
+        137,
+        139,
+        357
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+SIMTIMER": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        49,
+        145,
+        204,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        16,
+        47,
+        138,
+        194,
+        364
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+SIMTONE": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        13,
+        130,
+        150,
+        294
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        14,
+        143,
+        167,
+        355
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        15,
+        137,
+        159,
+        337
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+SIMTONEX": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        18,
+        20,
+        144,
+        196,
+        197
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        9,
+        16,
+        138,
+        187
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+SJDR": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        13,
+        16,
+        17,
+        18,
+        21,
+        144,
+        190,
+        379
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        6,
+        7,
+        9,
+        10,
+        15,
+        20,
+        138,
+        180,
+        181,
+        359
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+SKPD": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        17,
+        19,
+        144,
+        196,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        7,
+        16,
+        138,
+        186,
+        364
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+SLEDS": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        13,
+        40,
+        131,
+        163
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        14,
+        49,
+        144,
+        182,
+        188
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        15,
+        47,
+        138,
+        173,
+        174,
+        179
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+SMTPAUTH": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        241
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        21,
+        293,
+        296
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        10,
+        18,
+        279,
+        282
+      ],
+      "first_page": 10
+    }
+  },
+  "AT+SMTPBODY": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        14,
+        238,
+        244
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        15,
+        293,
+        299,
+        300
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        18,
+        279,
+        285
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+SMTPCS": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        247
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        303
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        288,
+        289
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+SMTPFILE": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        244,
+        245
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        300
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        19,
+        279,
+        285,
+        286
+      ],
+      "first_page": 19
+    }
+  },
+  "AT+SMTPFROM": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        241,
+        242
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        297
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        279,
+        283
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+SMTPFT": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        14,
+        238,
+        246,
+        247
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        15,
+        293,
+        302,
+        303
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        19,
+        279,
+        287,
+        288
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+SMTPRCPT": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        242,
+        243
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        298
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        279,
+        283,
+        284
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+SMTPSEND": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        14,
+        238,
+        245,
+        246,
+        247
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        15,
+        293,
+        301,
+        303
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        19,
+        279,
+        286,
+        287,
+        288
+      ],
+      "first_page": 4
+    }
+  },
+  "AT+SMTPSRV": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        240
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        295
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        279,
+        281
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+SMTPSUB": {
+    "V1.01": {
+      "all_pages": [
+        10,
+        238,
+        243
+      ],
+      "first_page": 10
+    },
+    "V1.10": {
+      "all_pages": [
+        11,
+        293,
+        299
+      ],
+      "first_page": 11
+    },
+    "V1.12": {
+      "all_pages": [
+        18,
+        279,
+        284,
+        285
+      ],
+      "first_page": 18
+    }
+  },
+  "AT+SNDLEVEL": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        145,
+        203
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        9,
+        16,
+        138,
+        193
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+SPE": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        145,
+        205,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        8,
+        16,
+        138,
+        195,
+        364
+      ],
+      "first_page": 8
+    }
+  },
+  "AT+SPIC": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        130,
+        132
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        143,
+        146
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        137,
+        140
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+SPWM": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        131,
+        157
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        16,
+        18,
+        144,
+        176,
+        383
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        7,
+        15,
+        138,
+        168,
+        363
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+SRSPT": {
+    "V1.10": {
+      "all_pages": [
+        8,
+        20,
+        145,
+        206,
+        207,
+        383
+      ],
+      "first_page": 8
+    },
+    "V1.12": {
+      "all_pages": [
+        9,
+        16,
+        138,
+        196,
+        197,
+        364
+      ],
+      "first_page": 9
+    }
+  },
+  "AT+STKCALL": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        123,
+        125
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        135,
+        137
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        129,
+        131
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+STKDTMF": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        123,
+        127
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        135,
+        139
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        129,
+        133
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+STKENV": {
+    "V1.01": {
+      "all_pages": [
+        125
+      ],
+      "first_page": 125
+    },
+    "V1.10": {
+      "all_pages": [
+        137
+      ],
+      "first_page": 137
+    },
+    "V1.12": {
+      "all_pages": [
+        131
+      ],
+      "first_page": 131
+    }
+  },
+  "AT+STKENVS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        123,
+        124
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        135,
+        136
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        129,
+        130
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+STKMENU": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        123,
+        128
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        135,
+        141
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        129,
+        134,
+        135
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+STKPCIS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        40,
+        123,
+        129
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        48,
+        135,
+        141,
+        142
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        47,
+        129,
+        135
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+STKSMS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        123,
+        125
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        135,
+        138
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        129,
+        132
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+STKSS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        123,
+        126
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        135,
+        138
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        129,
+        132
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+STKTR": {
+    "V1.01": {
+      "all_pages": [
+        124
+      ],
+      "first_page": 124
+    },
+    "V1.10": {
+      "all_pages": [
+        136
+      ],
+      "first_page": 136
+    },
+    "V1.12": {
+      "all_pages": [
+        130
+      ],
+      "first_page": 130
+    }
+  },
+  "AT+STKTRS": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        123
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        17,
+        135
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        6,
+        14,
+        129
+      ],
+      "first_page": 6
+    }
+  },
+  "AT+STKUSSD": {
+    "V1.01": {
+      "all_pages": [
+        6,
+        123,
+        126
+      ],
+      "first_page": 6
+    },
+    "V1.10": {
+      "all_pages": [
+        6,
+        135,
+        139
+      ],
+      "first_page": 6
+    },
+    "V1.12": {
+      "all_pages": [
+        14,
+        129,
+        133
+      ],
+      "first_page": 14
+    }
+  },
+  "AT+STTONE": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        13,
+        130,
+        149,
+        294
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        14,
+        143,
+        166,
+        355
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        3,
+        15,
+        137,
+        158,
+        159,
+        337
+      ],
+      "first_page": 3
+    }
+  },
+  "AT+SVR": {
+    "V1.01": {
+      "all_pages": [
+        7,
+        15,
+        40,
+        131,
+        160,
+        161
+      ],
+      "first_page": 7
+    },
+    "V1.10": {
+      "all_pages": [
+        7,
+        16,
+        48,
+        144,
+        178,
+        179
+      ],
+      "first_page": 7
+    },
+    "V1.12": {
+      "all_pages": [
+        5,
+        15,
+        47,
+        138,
+        170,
+        171
+      ],
+      "first_page": 5
+    }
+  },
+  "AT+VTD": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        40,
+        48,
+        85
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        48,
+        57,
+        94,
+        95
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        13,
+        47,
+        56,
+        90,
+        91
+      ],
+      "first_page": 13
+    }
+  },
+  "AT+VTS": {
+    "V1.01": {
+      "all_pages": [
+        5,
+        14,
+        48,
+        85
+      ],
+      "first_page": 5
+    },
+    "V1.10": {
+      "all_pages": [
+        5,
+        15,
+        57,
+        95
+      ],
+      "first_page": 5
+    },
+    "V1.12": {
+      "all_pages": [
+        4,
+        13,
+        56,
+        91
+      ],
+      "first_page": 4
+    }
+  }
+}

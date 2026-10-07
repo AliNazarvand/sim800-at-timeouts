@@ -1,0 +1,2224 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineSystem.cmake:218 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.28000 - AMD64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeNinjaFindMake.cmake:5 (find_program)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_MAKE_PROGRAM"
+    description: "Program used to build from build.ninja files."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ninja-build"
+      - "ninja"
+      - "samu"
+    candidate_directories:
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/bin/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/ninja-build.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/ninja-build.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/ninja-build"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/ninja.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/ninja.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/ninja"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/samu.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/samu.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/samu"
+      - "C:/MinGW/bin/ninja-build.com"
+      - "C:/MinGW/bin/ninja-build.exe"
+      - "C:/MinGW/bin/ninja-build"
+      - "C:/MinGW/bin/ninja.com"
+      - "C:/MinGW/bin/ninja.exe"
+      - "C:/MinGW/bin/ninja"
+      - "C:/MinGW/bin/samu.com"
+      - "C:/MinGW/bin/samu.exe"
+      - "C:/MinGW/bin/samu"
+      - "C:/MinGW/msys/1.0/bin/ninja-build.com"
+      - "C:/MinGW/msys/1.0/bin/ninja-build.exe"
+      - "C:/MinGW/msys/1.0/bin/ninja-build"
+      - "C:/MinGW/msys/1.0/bin/ninja.com"
+      - "C:/MinGW/msys/1.0/bin/ninja.exe"
+      - "C:/MinGW/msys/1.0/bin/ninja"
+      - "C:/MinGW/msys/1.0/bin/samu.com"
+      - "C:/MinGW/msys/1.0/bin/samu.exe"
+      - "C:/MinGW/msys/1.0/bin/samu"
+      - "C:/Python314/Scripts/ninja-build.com"
+      - "C:/Python314/Scripts/ninja-build.exe"
+      - "C:/Python314/Scripts/ninja-build"
+      - "C:/Python314/Scripts/ninja.com"
+      - "C:/Python314/Scripts/ninja.exe"
+      - "C:/Python314/Scripts/ninja"
+      - "C:/Python314/Scripts/samu.com"
+      - "C:/Python314/Scripts/samu.exe"
+      - "C:/Python314/Scripts/samu"
+      - "C:/Python314/ninja-build.com"
+      - "C:/Python314/ninja-build.exe"
+      - "C:/Python314/ninja-build"
+      - "C:/Python314/ninja.com"
+      - "C:/Python314/ninja.exe"
+      - "C:/Python314/ninja"
+      - "C:/Python314/samu.com"
+      - "C:/Python314/samu.exe"
+      - "C:/Python314/samu"
+      - "C:/Windows/System32/ninja-build.com"
+      - "C:/Windows/System32/ninja-build.exe"
+      - "C:/Windows/System32/ninja-build"
+      - "C:/Windows/System32/ninja.com"
+      - "C:/Windows/System32/ninja.exe"
+      - "C:/Windows/System32/ninja"
+      - "C:/Windows/System32/samu.com"
+      - "C:/Windows/System32/samu.exe"
+      - "C:/Windows/System32/samu"
+      - "C:/Windows/ninja-build.com"
+      - "C:/Windows/ninja-build.exe"
+      - "C:/Windows/ninja-build"
+      - "C:/Windows/ninja.com"
+      - "C:/Windows/ninja.exe"
+      - "C:/Windows/ninja"
+      - "C:/Windows/samu.com"
+      - "C:/Windows/samu.exe"
+      - "C:/Windows/samu"
+      - "C:/Windows/System32/wbem/ninja-build.com"
+      - "C:/Windows/System32/wbem/ninja-build.exe"
+      - "C:/Windows/System32/wbem/ninja-build"
+      - "C:/Windows/System32/wbem/ninja.com"
+      - "C:/Windows/System32/wbem/ninja.exe"
+      - "C:/Windows/System32/wbem/ninja"
+      - "C:/Windows/System32/wbem/samu.com"
+      - "C:/Windows/System32/wbem/samu.exe"
+      - "C:/Windows/System32/wbem/samu"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja-build.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja-build.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja-build"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/samu.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/samu.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/samu"
+      - "C:/Windows/System32/OpenSSH/ninja-build.com"
+      - "C:/Windows/System32/OpenSSH/ninja-build.exe"
+      - "C:/Windows/System32/OpenSSH/ninja-build"
+      - "C:/Windows/System32/OpenSSH/ninja.com"
+      - "C:/Windows/System32/OpenSSH/ninja.exe"
+      - "C:/Windows/System32/OpenSSH/ninja"
+      - "C:/Windows/System32/OpenSSH/samu.com"
+      - "C:/Windows/System32/OpenSSH/samu.exe"
+      - "C:/Windows/System32/OpenSSH/samu"
+      - "C:/Program Files/dotnet/ninja-build.com"
+      - "C:/Program Files/dotnet/ninja-build.exe"
+      - "C:/Program Files/dotnet/ninja-build"
+      - "C:/Program Files/dotnet/ninja.com"
+      - "C:/Program Files/dotnet/ninja.exe"
+      - "C:/Program Files/dotnet/ninja"
+      - "C:/Program Files/dotnet/samu.com"
+      - "C:/Program Files/dotnet/samu.exe"
+      - "C:/Program Files/dotnet/samu"
+      - "C:/Program Files/Microsoft VS Code/bin/ninja-build.com"
+      - "C:/Program Files/Microsoft VS Code/bin/ninja-build.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/ninja-build"
+      - "C:/Program Files/Microsoft VS Code/bin/ninja.com"
+      - "C:/Program Files/Microsoft VS Code/bin/ninja.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/ninja"
+      - "C:/Program Files/Microsoft VS Code/bin/samu.com"
+      - "C:/Program Files/Microsoft VS Code/bin/samu.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/samu"
+      - "C:/Program Files/nodejs/ninja-build.com"
+      - "C:/Program Files/nodejs/ninja-build.exe"
+      - "C:/Program Files/nodejs/ninja-build"
+      - "C:/Program Files/nodejs/ninja.com"
+      - "C:/Program Files/nodejs/ninja.exe"
+      - "C:/Program Files/nodejs/ninja"
+      - "C:/Program Files/nodejs/samu.com"
+      - "C:/Program Files/nodejs/samu.exe"
+      - "C:/Program Files/nodejs/samu"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ninja-build.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ninja-build.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ninja-build"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ninja.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ninja.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ninja"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/samu.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/samu.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/samu"
+      - "C:/ProgramData/chocolatey/bin/ninja-build.com"
+      - "C:/ProgramData/chocolatey/bin/ninja-build.exe"
+      - "C:/ProgramData/chocolatey/bin/ninja-build"
+      - "C:/ProgramData/chocolatey/bin/ninja.com"
+    found: "C:/ProgramData/chocolatey/bin/ninja.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompiler.cmake:63 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:69 (_cmake_find_compiler)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER"
+    description: "CXX compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: false
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "c++"
+      - "g++"
+      - "cl"
+      - "bcc"
+      - "icx"
+      - "clang++"
+    candidate_directories:
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/bin/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/c++.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/c++.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/c++"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/g++.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/g++.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/g++"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/cl.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/cl.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/cl"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/bcc.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/bcc.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/bcc"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/icx.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/icx.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/icx"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/clang++.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/clang++.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/clang++"
+      - "C:/MinGW/bin/c++.com"
+    found: "C:/MinGW/bin/c++.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:501 (find_file)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:538 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/"
+    found: "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/MinGW/bin/c++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is GNU, found in:
+        D:/Project/Electronic Project/Control Board SMS 2/Documents/New folder (2)/New/1- sim800-at-timeouts/001/build/CMakeFiles/4.4.4/CompilerIdCXX/a.exe
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_AR"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ar"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/ar.com"
+    found: "C:/MinGW/bin/ar.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RANLIB"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ranlib"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/ranlib.com"
+    found: "C:/MinGW/bin/ranlib.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_STRIP"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "strip"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/strip.com"
+    found: "C:/MinGW/bin/strip.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_LINKER"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ld"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/ld.com"
+    found: "C:/MinGW/bin/ld.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_NM"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "nm"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/nm.com"
+    found: "C:/MinGW/bin/nm.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_OBJDUMP"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "objdump"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/objdump.com"
+    found: "C:/MinGW/bin/objdump.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_OBJCOPY"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "objcopy"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/objcopy.com"
+    found: "C:/MinGW/bin/objcopy.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_READELF"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "readelf"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/readelf.com"
+    found: "C:/MinGW/bin/readelf.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_DLLTOOL"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "dlltool"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/dlltool.com"
+    found: "C:/MinGW/bin/dlltool.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_ADDR2LINE"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "addr2line"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/addr2line.com"
+    found: "C:/MinGW/bin/addr2line.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake:247 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_TAPI"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "tapi"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/tapi.com"
+      - "C:/MinGW/bin/tapi.exe"
+      - "C:/MinGW/bin/tapi"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/tapi.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/tapi.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/tapi"
+      - "C:/MinGW/msys/1.0/bin/tapi.com"
+      - "C:/MinGW/msys/1.0/bin/tapi.exe"
+      - "C:/MinGW/msys/1.0/bin/tapi"
+      - "C:/Python314/Scripts/tapi.com"
+      - "C:/Python314/Scripts/tapi.exe"
+      - "C:/Python314/Scripts/tapi"
+      - "C:/Python314/tapi.com"
+      - "C:/Python314/tapi.exe"
+      - "C:/Python314/tapi"
+      - "C:/Windows/System32/tapi.com"
+      - "C:/Windows/System32/tapi.exe"
+      - "C:/Windows/System32/tapi"
+      - "C:/Windows/tapi.com"
+      - "C:/Windows/tapi.exe"
+      - "C:/Windows/tapi"
+      - "C:/Windows/System32/wbem/tapi.com"
+      - "C:/Windows/System32/wbem/tapi.exe"
+      - "C:/Windows/System32/wbem/tapi"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi"
+      - "C:/Windows/System32/OpenSSH/tapi.com"
+      - "C:/Windows/System32/OpenSSH/tapi.exe"
+      - "C:/Windows/System32/OpenSSH/tapi"
+      - "C:/Program Files/dotnet/tapi.com"
+      - "C:/Program Files/dotnet/tapi.exe"
+      - "C:/Program Files/dotnet/tapi"
+      - "C:/Program Files/Microsoft VS Code/bin/tapi.com"
+      - "C:/Program Files/Microsoft VS Code/bin/tapi.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/tapi"
+      - "C:/Program Files/nodejs/tapi.com"
+      - "C:/Program Files/nodejs/tapi.exe"
+      - "C:/Program Files/nodejs/tapi"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/tapi.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/tapi.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/tapi"
+      - "C:/ProgramData/chocolatey/bin/tapi.com"
+      - "C:/ProgramData/chocolatey/bin/tapi.exe"
+      - "C:/ProgramData/chocolatey/bin/tapi"
+      - "C:/Program Files/Git/cmd/tapi.com"
+      - "C:/Program Files/Git/cmd/tapi.exe"
+      - "C:/Program Files/Git/cmd/tapi"
+      - "C:/Program Files/PuTTY/tapi.com"
+      - "C:/Program Files/PuTTY/tapi.exe"
+      - "C:/Program Files/PuTTY/tapi"
+      - "C:/Program Files/GitHub CLI/tapi.com"
+      - "C:/Program Files/GitHub CLI/tapi.exe"
+      - "C:/Program Files/GitHub CLI/tapi"
+      - "C:/Program Files/CMake/bin/tapi.com"
+      - "C:/Program Files/CMake/bin/tapi.exe"
+      - "C:/Program Files/CMake/bin/tapi"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/tapi.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/tapi.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/tapi"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/tapi.com"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/tapi.exe"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/tapi"
+      - "C:/Users/Workshop/AppData/Roaming/npm/tapi.com"
+      - "C:/Users/Workshop/AppData/Roaming/npm/tapi.exe"
+      - "C:/Users/Workshop/AppData/Roaming/npm/tapi"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/tapi.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/tapi.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/tapi"
+      - "C:/msys64/mingw64/bin/tapi.com"
+      - "C:/msys64/mingw64/bin/tapi.exe"
+      - "C:/msys64/mingw64/bin/tapi"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Compiler/GNU-FindBinUtils.cmake:18 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_AR"
+    description: "A wrapper around 'ar' adding the appropriate '--plugin' option for the GCC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "gcc-ar-9.2"
+      - "gcc-ar-9"
+      - "gcc-ar9"
+      - "gcc-ar"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/gcc-ar-9.2.com"
+      - "C:/MinGW/bin/gcc-ar-9.2.exe"
+      - "C:/MinGW/bin/gcc-ar-9.2"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ar-9.2.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ar-9.2.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ar-9.2"
+      - "C:/MinGW/msys/1.0/bin/gcc-ar-9.2.com"
+      - "C:/MinGW/msys/1.0/bin/gcc-ar-9.2.exe"
+      - "C:/MinGW/msys/1.0/bin/gcc-ar-9.2"
+      - "C:/Python314/Scripts/gcc-ar-9.2.com"
+      - "C:/Python314/Scripts/gcc-ar-9.2.exe"
+      - "C:/Python314/Scripts/gcc-ar-9.2"
+      - "C:/Python314/gcc-ar-9.2.com"
+      - "C:/Python314/gcc-ar-9.2.exe"
+      - "C:/Python314/gcc-ar-9.2"
+      - "C:/Windows/System32/gcc-ar-9.2.com"
+      - "C:/Windows/System32/gcc-ar-9.2.exe"
+      - "C:/Windows/System32/gcc-ar-9.2"
+      - "C:/Windows/gcc-ar-9.2.com"
+      - "C:/Windows/gcc-ar-9.2.exe"
+      - "C:/Windows/gcc-ar-9.2"
+      - "C:/Windows/System32/wbem/gcc-ar-9.2.com"
+      - "C:/Windows/System32/wbem/gcc-ar-9.2.exe"
+      - "C:/Windows/System32/wbem/gcc-ar-9.2"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-9.2.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-9.2.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-9.2"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-9.2.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-9.2.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-9.2"
+      - "C:/Program Files/dotnet/gcc-ar-9.2.com"
+      - "C:/Program Files/dotnet/gcc-ar-9.2.exe"
+      - "C:/Program Files/dotnet/gcc-ar-9.2"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-9.2.com"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-9.2.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-9.2"
+      - "C:/Program Files/nodejs/gcc-ar-9.2.com"
+      - "C:/Program Files/nodejs/gcc-ar-9.2.exe"
+      - "C:/Program Files/nodejs/gcc-ar-9.2"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ar-9.2.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ar-9.2.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ar-9.2"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-9.2.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-9.2.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-9.2"
+      - "C:/Program Files/Git/cmd/gcc-ar-9.2.com"
+      - "C:/Program Files/Git/cmd/gcc-ar-9.2.exe"
+      - "C:/Program Files/Git/cmd/gcc-ar-9.2"
+      - "C:/Program Files/PuTTY/gcc-ar-9.2.com"
+      - "C:/Program Files/PuTTY/gcc-ar-9.2.exe"
+      - "C:/Program Files/PuTTY/gcc-ar-9.2"
+      - "C:/Program Files/GitHub CLI/gcc-ar-9.2.com"
+      - "C:/Program Files/GitHub CLI/gcc-ar-9.2.exe"
+      - "C:/Program Files/GitHub CLI/gcc-ar-9.2"
+      - "C:/Program Files/CMake/bin/gcc-ar-9.2.com"
+      - "C:/Program Files/CMake/bin/gcc-ar-9.2.exe"
+      - "C:/Program Files/CMake/bin/gcc-ar-9.2"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ar-9.2.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ar-9.2.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ar-9.2"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ar-9.2.com"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ar-9.2.exe"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ar-9.2"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ar-9.2.com"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ar-9.2.exe"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ar-9.2"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ar-9.2.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ar-9.2.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ar-9.2"
+      - "C:/msys64/mingw64/bin/gcc-ar-9.2.com"
+      - "C:/msys64/mingw64/bin/gcc-ar-9.2.exe"
+      - "C:/msys64/mingw64/bin/gcc-ar-9.2"
+      - "C:/MinGW/bin/gcc-ar-9.com"
+      - "C:/MinGW/bin/gcc-ar-9.exe"
+      - "C:/MinGW/bin/gcc-ar-9"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ar-9.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ar-9.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ar-9"
+      - "C:/MinGW/msys/1.0/bin/gcc-ar-9.com"
+      - "C:/MinGW/msys/1.0/bin/gcc-ar-9.exe"
+      - "C:/MinGW/msys/1.0/bin/gcc-ar-9"
+      - "C:/Python314/Scripts/gcc-ar-9.com"
+      - "C:/Python314/Scripts/gcc-ar-9.exe"
+      - "C:/Python314/Scripts/gcc-ar-9"
+      - "C:/Python314/gcc-ar-9.com"
+      - "C:/Python314/gcc-ar-9.exe"
+      - "C:/Python314/gcc-ar-9"
+      - "C:/Windows/System32/gcc-ar-9.com"
+      - "C:/Windows/System32/gcc-ar-9.exe"
+      - "C:/Windows/System32/gcc-ar-9"
+      - "C:/Windows/gcc-ar-9.com"
+      - "C:/Windows/gcc-ar-9.exe"
+      - "C:/Windows/gcc-ar-9"
+      - "C:/Windows/System32/wbem/gcc-ar-9.com"
+      - "C:/Windows/System32/wbem/gcc-ar-9.exe"
+      - "C:/Windows/System32/wbem/gcc-ar-9"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-9.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-9.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar-9"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-9.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-9.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ar-9"
+      - "C:/Program Files/dotnet/gcc-ar-9.com"
+      - "C:/Program Files/dotnet/gcc-ar-9.exe"
+      - "C:/Program Files/dotnet/gcc-ar-9"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-9.com"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-9.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-9"
+      - "C:/Program Files/nodejs/gcc-ar-9.com"
+      - "C:/Program Files/nodejs/gcc-ar-9.exe"
+      - "C:/Program Files/nodejs/gcc-ar-9"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ar-9.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ar-9.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ar-9"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-9.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-9.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar-9"
+      - "C:/Program Files/Git/cmd/gcc-ar-9.com"
+      - "C:/Program Files/Git/cmd/gcc-ar-9.exe"
+      - "C:/Program Files/Git/cmd/gcc-ar-9"
+      - "C:/Program Files/PuTTY/gcc-ar-9.com"
+      - "C:/Program Files/PuTTY/gcc-ar-9.exe"
+      - "C:/Program Files/PuTTY/gcc-ar-9"
+      - "C:/Program Files/GitHub CLI/gcc-ar-9.com"
+      - "C:/Program Files/GitHub CLI/gcc-ar-9.exe"
+      - "C:/Program Files/GitHub CLI/gcc-ar-9"
+      - "C:/Program Files/CMake/bin/gcc-ar-9.com"
+      - "C:/Program Files/CMake/bin/gcc-ar-9.exe"
+      - "C:/Program Files/CMake/bin/gcc-ar-9"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ar-9.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ar-9.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ar-9"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ar-9.com"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ar-9.exe"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ar-9"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ar-9.com"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ar-9.exe"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ar-9"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ar-9.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ar-9.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ar-9"
+      - "C:/msys64/mingw64/bin/gcc-ar-9.com"
+      - "C:/msys64/mingw64/bin/gcc-ar-9.exe"
+      - "C:/msys64/mingw64/bin/gcc-ar-9"
+      - "C:/MinGW/bin/gcc-ar9.com"
+      - "C:/MinGW/bin/gcc-ar9.exe"
+      - "C:/MinGW/bin/gcc-ar9"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ar9.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ar9.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ar9"
+      - "C:/MinGW/msys/1.0/bin/gcc-ar9.com"
+      - "C:/MinGW/msys/1.0/bin/gcc-ar9.exe"
+      - "C:/MinGW/msys/1.0/bin/gcc-ar9"
+      - "C:/Python314/Scripts/gcc-ar9.com"
+      - "C:/Python314/Scripts/gcc-ar9.exe"
+      - "C:/Python314/Scripts/gcc-ar9"
+      - "C:/Python314/gcc-ar9.com"
+      - "C:/Python314/gcc-ar9.exe"
+      - "C:/Python314/gcc-ar9"
+      - "C:/Windows/System32/gcc-ar9.com"
+      - "C:/Windows/System32/gcc-ar9.exe"
+      - "C:/Windows/System32/gcc-ar9"
+      - "C:/Windows/gcc-ar9.com"
+      - "C:/Windows/gcc-ar9.exe"
+      - "C:/Windows/gcc-ar9"
+      - "C:/Windows/System32/wbem/gcc-ar9.com"
+      - "C:/Windows/System32/wbem/gcc-ar9.exe"
+      - "C:/Windows/System32/wbem/gcc-ar9"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar9.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar9.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ar9"
+      - "C:/Windows/System32/OpenSSH/gcc-ar9.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ar9.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ar9"
+      - "C:/Program Files/dotnet/gcc-ar9.com"
+      - "C:/Program Files/dotnet/gcc-ar9.exe"
+      - "C:/Program Files/dotnet/gcc-ar9"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ar9.com"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ar9.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ar9"
+      - "C:/Program Files/nodejs/gcc-ar9.com"
+      - "C:/Program Files/nodejs/gcc-ar9.exe"
+      - "C:/Program Files/nodejs/gcc-ar9"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ar9.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ar9.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ar9"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar9.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar9.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ar9"
+      - "C:/Program Files/Git/cmd/gcc-ar9.com"
+      - "C:/Program Files/Git/cmd/gcc-ar9.exe"
+      - "C:/Program Files/Git/cmd/gcc-ar9"
+      - "C:/Program Files/PuTTY/gcc-ar9.com"
+      - "C:/Program Files/PuTTY/gcc-ar9.exe"
+      - "C:/Program Files/PuTTY/gcc-ar9"
+      - "C:/Program Files/GitHub CLI/gcc-ar9.com"
+      - "C:/Program Files/GitHub CLI/gcc-ar9.exe"
+      - "C:/Program Files/GitHub CLI/gcc-ar9"
+      - "C:/Program Files/CMake/bin/gcc-ar9.com"
+      - "C:/Program Files/CMake/bin/gcc-ar9.exe"
+      - "C:/Program Files/CMake/bin/gcc-ar9"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ar9.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ar9.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ar9"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ar9.com"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ar9.exe"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ar9"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ar9.com"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ar9.exe"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ar9"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ar9.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ar9.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ar9"
+      - "C:/msys64/mingw64/bin/gcc-ar9.com"
+      - "C:/msys64/mingw64/bin/gcc-ar9.exe"
+      - "C:/msys64/mingw64/bin/gcc-ar9"
+      - "C:/MinGW/bin/gcc-ar.com"
+    found: "C:/MinGW/bin/gcc-ar.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Compiler/GNU-FindBinUtils.cmake:30 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_RANLIB"
+    description: "A wrapper around 'ranlib' adding the appropriate '--plugin' option for the GCC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "gcc-ranlib-9.2"
+      - "gcc-ranlib-9"
+      - "gcc-ranlib9"
+      - "gcc-ranlib"
+    candidate_directories:
+      - "C:/MinGW/bin/"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+    searched_directories:
+      - "C:/MinGW/bin/gcc-ranlib-9.2.com"
+      - "C:/MinGW/bin/gcc-ranlib-9.2.exe"
+      - "C:/MinGW/bin/gcc-ranlib-9.2"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ranlib-9.2.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ranlib-9.2.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ranlib-9.2"
+      - "C:/MinGW/msys/1.0/bin/gcc-ranlib-9.2.com"
+      - "C:/MinGW/msys/1.0/bin/gcc-ranlib-9.2.exe"
+      - "C:/MinGW/msys/1.0/bin/gcc-ranlib-9.2"
+      - "C:/Python314/Scripts/gcc-ranlib-9.2.com"
+      - "C:/Python314/Scripts/gcc-ranlib-9.2.exe"
+      - "C:/Python314/Scripts/gcc-ranlib-9.2"
+      - "C:/Python314/gcc-ranlib-9.2.com"
+      - "C:/Python314/gcc-ranlib-9.2.exe"
+      - "C:/Python314/gcc-ranlib-9.2"
+      - "C:/Windows/System32/gcc-ranlib-9.2.com"
+      - "C:/Windows/System32/gcc-ranlib-9.2.exe"
+      - "C:/Windows/System32/gcc-ranlib-9.2"
+      - "C:/Windows/gcc-ranlib-9.2.com"
+      - "C:/Windows/gcc-ranlib-9.2.exe"
+      - "C:/Windows/gcc-ranlib-9.2"
+      - "C:/Windows/System32/wbem/gcc-ranlib-9.2.com"
+      - "C:/Windows/System32/wbem/gcc-ranlib-9.2.exe"
+      - "C:/Windows/System32/wbem/gcc-ranlib-9.2"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-9.2.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-9.2.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-9.2"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-9.2.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-9.2.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-9.2"
+      - "C:/Program Files/dotnet/gcc-ranlib-9.2.com"
+      - "C:/Program Files/dotnet/gcc-ranlib-9.2.exe"
+      - "C:/Program Files/dotnet/gcc-ranlib-9.2"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-9.2.com"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-9.2.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-9.2"
+      - "C:/Program Files/nodejs/gcc-ranlib-9.2.com"
+      - "C:/Program Files/nodejs/gcc-ranlib-9.2.exe"
+      - "C:/Program Files/nodejs/gcc-ranlib-9.2"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ranlib-9.2.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ranlib-9.2.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ranlib-9.2"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-9.2.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-9.2.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-9.2"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-9.2.com"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-9.2.exe"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-9.2"
+      - "C:/Program Files/PuTTY/gcc-ranlib-9.2.com"
+      - "C:/Program Files/PuTTY/gcc-ranlib-9.2.exe"
+      - "C:/Program Files/PuTTY/gcc-ranlib-9.2"
+      - "C:/Program Files/GitHub CLI/gcc-ranlib-9.2.com"
+      - "C:/Program Files/GitHub CLI/gcc-ranlib-9.2.exe"
+      - "C:/Program Files/GitHub CLI/gcc-ranlib-9.2"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-9.2.com"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-9.2.exe"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-9.2"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-9.2.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-9.2.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-9.2"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ranlib-9.2.com"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ranlib-9.2.exe"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ranlib-9.2"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ranlib-9.2.com"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ranlib-9.2.exe"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ranlib-9.2"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ranlib-9.2.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ranlib-9.2.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ranlib-9.2"
+      - "C:/msys64/mingw64/bin/gcc-ranlib-9.2.com"
+      - "C:/msys64/mingw64/bin/gcc-ranlib-9.2.exe"
+      - "C:/msys64/mingw64/bin/gcc-ranlib-9.2"
+      - "C:/MinGW/bin/gcc-ranlib-9.com"
+      - "C:/MinGW/bin/gcc-ranlib-9.exe"
+      - "C:/MinGW/bin/gcc-ranlib-9"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ranlib-9.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ranlib-9.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ranlib-9"
+      - "C:/MinGW/msys/1.0/bin/gcc-ranlib-9.com"
+      - "C:/MinGW/msys/1.0/bin/gcc-ranlib-9.exe"
+      - "C:/MinGW/msys/1.0/bin/gcc-ranlib-9"
+      - "C:/Python314/Scripts/gcc-ranlib-9.com"
+      - "C:/Python314/Scripts/gcc-ranlib-9.exe"
+      - "C:/Python314/Scripts/gcc-ranlib-9"
+      - "C:/Python314/gcc-ranlib-9.com"
+      - "C:/Python314/gcc-ranlib-9.exe"
+      - "C:/Python314/gcc-ranlib-9"
+      - "C:/Windows/System32/gcc-ranlib-9.com"
+      - "C:/Windows/System32/gcc-ranlib-9.exe"
+      - "C:/Windows/System32/gcc-ranlib-9"
+      - "C:/Windows/gcc-ranlib-9.com"
+      - "C:/Windows/gcc-ranlib-9.exe"
+      - "C:/Windows/gcc-ranlib-9"
+      - "C:/Windows/System32/wbem/gcc-ranlib-9.com"
+      - "C:/Windows/System32/wbem/gcc-ranlib-9.exe"
+      - "C:/Windows/System32/wbem/gcc-ranlib-9"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-9.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-9.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib-9"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-9.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-9.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib-9"
+      - "C:/Program Files/dotnet/gcc-ranlib-9.com"
+      - "C:/Program Files/dotnet/gcc-ranlib-9.exe"
+      - "C:/Program Files/dotnet/gcc-ranlib-9"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-9.com"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-9.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-9"
+      - "C:/Program Files/nodejs/gcc-ranlib-9.com"
+      - "C:/Program Files/nodejs/gcc-ranlib-9.exe"
+      - "C:/Program Files/nodejs/gcc-ranlib-9"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ranlib-9.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ranlib-9.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ranlib-9"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-9.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-9.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib-9"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-9.com"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-9.exe"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-9"
+      - "C:/Program Files/PuTTY/gcc-ranlib-9.com"
+      - "C:/Program Files/PuTTY/gcc-ranlib-9.exe"
+      - "C:/Program Files/PuTTY/gcc-ranlib-9"
+      - "C:/Program Files/GitHub CLI/gcc-ranlib-9.com"
+      - "C:/Program Files/GitHub CLI/gcc-ranlib-9.exe"
+      - "C:/Program Files/GitHub CLI/gcc-ranlib-9"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-9.com"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-9.exe"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-9"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-9.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-9.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-9"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ranlib-9.com"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ranlib-9.exe"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ranlib-9"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ranlib-9.com"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ranlib-9.exe"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ranlib-9"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ranlib-9.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ranlib-9.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ranlib-9"
+      - "C:/msys64/mingw64/bin/gcc-ranlib-9.com"
+      - "C:/msys64/mingw64/bin/gcc-ranlib-9.exe"
+      - "C:/msys64/mingw64/bin/gcc-ranlib-9"
+      - "C:/MinGW/bin/gcc-ranlib9.com"
+      - "C:/MinGW/bin/gcc-ranlib9.exe"
+      - "C:/MinGW/bin/gcc-ranlib9"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ranlib9.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ranlib9.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/gcc-ranlib9"
+      - "C:/MinGW/msys/1.0/bin/gcc-ranlib9.com"
+      - "C:/MinGW/msys/1.0/bin/gcc-ranlib9.exe"
+      - "C:/MinGW/msys/1.0/bin/gcc-ranlib9"
+      - "C:/Python314/Scripts/gcc-ranlib9.com"
+      - "C:/Python314/Scripts/gcc-ranlib9.exe"
+      - "C:/Python314/Scripts/gcc-ranlib9"
+      - "C:/Python314/gcc-ranlib9.com"
+      - "C:/Python314/gcc-ranlib9.exe"
+      - "C:/Python314/gcc-ranlib9"
+      - "C:/Windows/System32/gcc-ranlib9.com"
+      - "C:/Windows/System32/gcc-ranlib9.exe"
+      - "C:/Windows/System32/gcc-ranlib9"
+      - "C:/Windows/gcc-ranlib9.com"
+      - "C:/Windows/gcc-ranlib9.exe"
+      - "C:/Windows/gcc-ranlib9"
+      - "C:/Windows/System32/wbem/gcc-ranlib9.com"
+      - "C:/Windows/System32/wbem/gcc-ranlib9.exe"
+      - "C:/Windows/System32/wbem/gcc-ranlib9"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib9.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib9.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/gcc-ranlib9"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib9.com"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib9.exe"
+      - "C:/Windows/System32/OpenSSH/gcc-ranlib9"
+      - "C:/Program Files/dotnet/gcc-ranlib9.com"
+      - "C:/Program Files/dotnet/gcc-ranlib9.exe"
+      - "C:/Program Files/dotnet/gcc-ranlib9"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib9.com"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib9.exe"
+      - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib9"
+      - "C:/Program Files/nodejs/gcc-ranlib9.com"
+      - "C:/Program Files/nodejs/gcc-ranlib9.exe"
+      - "C:/Program Files/nodejs/gcc-ranlib9"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ranlib9.com"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ranlib9.exe"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/gcc-ranlib9"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib9.com"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib9.exe"
+      - "C:/ProgramData/chocolatey/bin/gcc-ranlib9"
+      - "C:/Program Files/Git/cmd/gcc-ranlib9.com"
+      - "C:/Program Files/Git/cmd/gcc-ranlib9.exe"
+      - "C:/Program Files/Git/cmd/gcc-ranlib9"
+      - "C:/Program Files/PuTTY/gcc-ranlib9.com"
+      - "C:/Program Files/PuTTY/gcc-ranlib9.exe"
+      - "C:/Program Files/PuTTY/gcc-ranlib9"
+      - "C:/Program Files/GitHub CLI/gcc-ranlib9.com"
+      - "C:/Program Files/GitHub CLI/gcc-ranlib9.exe"
+      - "C:/Program Files/GitHub CLI/gcc-ranlib9"
+      - "C:/Program Files/CMake/bin/gcc-ranlib9.com"
+      - "C:/Program Files/CMake/bin/gcc-ranlib9.exe"
+      - "C:/Program Files/CMake/bin/gcc-ranlib9"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ranlib9.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ranlib9.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/gcc-ranlib9"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ranlib9.com"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ranlib9.exe"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/gcc-ranlib9"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ranlib9.com"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ranlib9.exe"
+      - "C:/Users/Workshop/AppData/Roaming/npm/gcc-ranlib9"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ranlib9.com"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ranlib9.exe"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/gcc-ranlib9"
+      - "C:/msys64/mingw64/bin/gcc-ranlib9.com"
+      - "C:/msys64/mingw64/bin/gcc-ranlib9.exe"
+      - "C:/msys64/mingw64/bin/gcc-ranlib9"
+      - "C:/MinGW/bin/gcc-ranlib.com"
+    found: "C:/MinGW/bin/gcc-ranlib.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineRCCompiler.cmake:40 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-GNU.cmake:167 (enable_language)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-GNU-CXX.cmake:2 (__windows_compiler_gnu)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXInformation.cmake:48 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RC_COMPILER"
+    description: "RC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "windres"
+      - "windres"
+    candidate_directories:
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/"
+      - "C:/MinGW/bin/"
+      - "C:/MinGW/msys/1.0/bin/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft VS Code/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/GitHub CLI/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Workshop/AppData/Local/Python/bin/"
+      - "C:/Users/Workshop/AppData/Roaming/npm/"
+      - "C:/Users/Workshop/AppData/Local/Microsoft/WinGet/Packages/Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/msys64/mingw64/bin/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/sbin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/sim800_at_timeouts/bin/"
+      - "C:/Program Files (x86)/sim800_at_timeouts/sbin/"
+      - "C:/Program Files (x86)/sim800_at_timeouts/"
+    searched_directories:
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/windres.com"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/windres.exe"
+      - "C:/Program Files/WindowsApps/Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe/windres"
+      - "C:/MinGW/bin/windres.com"
+    found: "C:/MinGW/bin/windres.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.6.0_x64__8wekyb3d8bbwe"
+        - "C:\\MinGW\\bin"
+        - "C:\\MinGW\\msys\\1.0\\bin"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\GitHub CLI\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Python\\bin"
+        - "C:\\Users\\Workshop\\AppData\\Roaming\\npm"
+        - "C:\\Users\\Workshop\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\msys64\\mingw64\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/sim800_at_timeouts"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/sim800_at_timeouts"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake:123 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/Project/Electronic Project/Control Board SMS 2/Documents/New folder (2)/New/1- sim800-at-timeouts/001/build/CMakeFiles/CMakeScratch/TryCompile-7jovus"
+      binary: "D:/Project/Electronic Project/Control Board SMS 2/Documents/New folder (2)/New/1- sim800-at-timeouts/001/build/CMakeFiles/CMakeScratch/TryCompile-7jovus"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_CXX_STDLIB_MODULES_JSON: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: false
+      stdout: |
+        Change Dir: 'D:/Project/Electronic Project/Control Board SMS 2/Documents/New folder (2)/New/1- sim800-at-timeouts/001/build/CMakeFiles/CMakeScratch/TryCompile-7jovus'
+        
+        Run Build Command(s): C:/ProgramData/chocolatey/bin/ninja.exe -v cmTC_0851f
+        [1/2] C:\\MinGW\\bin\\c++.exe   -v -o CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp"
+        Using built-in specs.
+        COLLECT_GCC=C:\\MinGW\\bin\\c++.exe
+        Target: mingw32
+        Configured with: ../src/gcc-9.2.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-static --enable-shared --enable-threads --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --enable-libgomp --disable-libvtv --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --disable-build-format-warnings --prefix=/mingw --with-gmp=/mingw --with-mpfr=/mingw --with-mpc=/mingw --with-isl=/mingw --enable-nls --with-pkgversion='MinGW.org GCC Build-2'
+        Thread model: win32
+        gcc version 9.2.0 (MinGW.org GCC Build-2) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=i586'
+         c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/cc1plus.exe -quiet -v -iprefix c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/ C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=i586 -auxbase-strip CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\Workshop\\AppData\\Local\\Temp\\ccZdiwL1.s
+        GNU C++14 (MinGW.org GCC Build-2) version 9.2.0 (mingw32)
+        	compiled by GNU C version 9.2.0, GMP version 6.1.2, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.21-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring nonexistent directory "c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/../../../../mingw32/include"
+        ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include/c++"
+        ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include/c++/mingw32"
+        ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include/c++/backward"
+        ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include"
+        ignoring nonexistent directory "/mingw/include"
+        ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+        ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include-fixed"
+        ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/../../../../mingw32/include"
+        ignoring nonexistent directory "/mingw/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include/c++
+         c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include/c++/mingw32
+         c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include/c++/backward
+         c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include
+         c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/../../../../include
+         c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include-fixed
+        End of search list.
+        GNU C++14 (MinGW.org GCC Build-2) version 9.2.0 (mingw32)
+        	compiled by GNU C version 9.2.0, GMP version 6.1.2, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.21-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        Compiler executable checksum: cb31672760a9c1b42d1ddb86616116cd
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=i586'
+         c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\Workshop\\AppData\\Local\\Temp\\ccZdiwL1.s
+        GNU assembler version 2.32 (mingw32) using BFD version (GNU Binutils) 2.32
+        COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/
+        LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/9.2.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=i586'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\MinGW\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_0851f.exe -Wl,--out-implib,libcmTC_0851f.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        Using built-in specs.
+        COLLECT_GCC=C:\\MinGW\\bin\\c++.exe
+        COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/lto-wrapper.exe
+        Target: mingw32
+        Configured with: ../src/gcc-9.2.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-static --enable-shared --enable-threads --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --enable-libgomp --disable-libvtv --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --disable-build-format-warnings --prefix=/mingw --with-gmp=/mingw --with-mpfr=/mingw --with-mpc=/mingw --with-isl=/mingw --enable-nls --with-pkgversion='MinGW.org GCC Build-2'
+        Thread model: win32
+        gcc version 9.2.0 (MinGW.org GCC Build-2) 
+        COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/
+        LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/9.2.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0851f.exe' '-shared-libgcc' '-mtune=generic' '-march=i586'
+         c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/collect2.exe -plugin c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/liblto_plugin-0.dll -plugin-opt=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Workshop\\AppData\\Local\\Temp\\cctVPUAa.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_0851f.exe c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../.. -v CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0851f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtend.o
+        collect2 version 9.2.0
+        c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe -plugin c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/liblto_plugin-0.dll -plugin-opt=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Workshop\\AppData\\Local\\Temp\\cctVPUAa.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_0851f.exe c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../.. -v CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0851f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtend.o
+        GNU ld (GNU Binutils) 2.32
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0851f.exe' '-shared-libgcc' '-mtune=generic' '-march=i586'
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake:255 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include/c++]
+          add: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include/c++/mingw32]
+          add: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include/c++/backward]
+          add: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include]
+          add: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../include]
+          add: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include-fixed]
+        end of search list found
+        collapse include dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include/c++] ==> [C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++]
+        collapse include dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include/c++/mingw32] ==> [C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32]
+        collapse include dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include/c++/backward] ==> [C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward]
+        collapse include dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include] ==> [C:/MinGW/lib/gcc/mingw32/9.2.0/include]
+        collapse include dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../include] ==> [C:/MinGW/include]
+        collapse include dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/include-fixed] ==> [C:/MinGW/lib/gcc/mingw32/9.2.0/include-fixed]
+        implicit include dirs: [C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++;C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32;C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward;C:/MinGW/lib/gcc/mingw32/9.2.0/include;C:/MinGW/include;C:/MinGW/lib/gcc/mingw32/9.2.0/include-fixed]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake:291 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild))("|,| |$)]
+        ignore line: [Change Dir: 'D:/Project/Electronic Project/Control Board SMS 2/Documents/New folder (2)/New/1- sim800-at-timeouts/001/build/CMakeFiles/CMakeScratch/TryCompile-7jovus']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/ProgramData/chocolatey/bin/ninja.exe -v cmTC_0851f]
+        ignore line: [[1/2] C:\\MinGW\\bin\\c++.exe   -v -o CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\MinGW\\bin\\c++.exe]
+        ignore line: [Target: mingw32]
+        ignore line: [Configured with: ../src/gcc-9.2.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-static --enable-shared --enable-threads --enable-languages=c c++ objc obj-c++ fortran ada --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --enable-libgomp --disable-libvtv --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --disable-build-format-warnings --prefix=/mingw --with-gmp=/mingw --with-mpfr=/mingw --with-mpc=/mingw --with-isl=/mingw --enable-nls --with-pkgversion='MinGW.org GCC Build-2']
+        ignore line: [Thread model: win32]
+        ignore line: [gcc version 9.2.0 (MinGW.org GCC Build-2) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=i586']
+        ignore line: [ c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/cc1plus.exe -quiet -v -iprefix c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/ C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=i586 -auxbase-strip CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\Workshop\\AppData\\Local\\Temp\\ccZdiwL1.s]
+        ignore line: [GNU C++14 (MinGW.org GCC Build-2) version 9.2.0 (mingw32)]
+        ignore line: [	compiled by GNU C version 9.2.0  GMP version 6.1.2  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.21-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring nonexistent directory "c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/../../../../mingw32/include"]
+        ignore line: [ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include/c++"]
+        ignore line: [ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include/c++/mingw32"]
+        ignore line: [ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include/c++/backward"]
+        ignore line: [ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include"]
+        ignore line: [ignoring nonexistent directory "/mingw/include"]
+        ignore line: [ignoring duplicate directory "c:/mingw/lib/gcc/../../include"]
+        ignore line: [ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/include-fixed"]
+        ignore line: [ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/9.2.0/../../../../mingw32/include"]
+        ignore line: [ignoring nonexistent directory "/mingw/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include/c++]
+        ignore line: [ c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include/c++/mingw32]
+        ignore line: [ c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include/c++/backward]
+        ignore line: [ c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include]
+        ignore line: [ c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/../../../../include]
+        ignore line: [ c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include-fixed]
+        ignore line: [End of search list.]
+        ignore line: [GNU C++14 (MinGW.org GCC Build-2) version 9.2.0 (mingw32)]
+        ignore line: [	compiled by GNU C version 9.2.0  GMP version 6.1.2  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.21-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [Compiler executable checksum: cb31672760a9c1b42d1ddb86616116cd]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=i586']
+        ignore line: [ c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\Workshop\\AppData\\Local\\Temp\\ccZdiwL1.s]
+        ignore line: [GNU assembler version 2.32 (mingw32) using BFD version (GNU Binutils) 2.32]
+        ignore line: [COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/]
+        ignore line: [c:/mingw/bin/../libexec/gcc/]
+        ignore line: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/]
+        ignore line: [LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/9.2.0/]
+        ignore line: [c:/mingw/bin/../lib/gcc/]
+        ignore line: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib/]
+        ignore line: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=i586']
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\MinGW\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_0851f.exe -Wl --out-implib libcmTC_0851f.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\MinGW\\bin\\c++.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/lto-wrapper.exe]
+        ignore line: [Target: mingw32]
+        ignore line: [Configured with: ../src/gcc-9.2.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-static --enable-shared --enable-threads --enable-languages=c c++ objc obj-c++ fortran ada --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --enable-libgomp --disable-libvtv --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --disable-build-format-warnings --prefix=/mingw --with-gmp=/mingw --with-mpfr=/mingw --with-mpc=/mingw --with-isl=/mingw --enable-nls --with-pkgversion='MinGW.org GCC Build-2']
+        ignore line: [Thread model: win32]
+        ignore line: [gcc version 9.2.0 (MinGW.org GCC Build-2) ]
+        ignore line: [COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/]
+        ignore line: [c:/mingw/bin/../libexec/gcc/]
+        ignore line: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/]
+        ignore line: [LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/9.2.0/]
+        ignore line: [c:/mingw/bin/../lib/gcc/]
+        ignore line: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib/]
+        ignore line: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0851f.exe' '-shared-libgcc' '-mtune=generic' '-march=i586']
+        link line: [ c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/collect2.exe -plugin c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/liblto_plugin-0.dll -plugin-opt=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Workshop\\AppData\\Local\\Temp\\cctVPUAa.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_0851f.exe c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../.. -v CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0851f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtend.o]
+          arg [c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/collect2.exe] ==> ignore
+          arg [-plugin] ==> ignore
+          arg [c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/liblto_plugin-0.dll] ==> ignore
+          arg [-plugin-opt=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/lto-wrapper.exe] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\Workshop\\AppData\\Local\\Temp\\cctVPUAa.res] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-ladvapi32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lshell32] ==> ignore
+          arg [-plugin-opt=-pass-through=-luser32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-u] ==> ignore
+          arg [___register_frame_info] ==> ignore
+          arg [-u] ==> ignore
+          arg [___deregister_frame_info] ==> ignore
+          arg [-o] ==> ignore
+          arg [cmTC_0851f.exe] ==> ignore
+          arg [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../crt2.o] ==> obj [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../crt2.o]
+          arg [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtbegin.o] ==> obj [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtbegin.o]
+          arg [-Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0]
+          arg [-Lc:/mingw/bin/../lib/gcc] ==> dir [c:/mingw/bin/../lib/gcc]
+          arg [-Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib]
+          arg [-Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../..] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../..]
+          arg [-v] ==> ignore
+          arg [CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_0851f.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lstdc++] ==> lib [stdc++]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtend.o] ==> obj [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtend.o]
+        ignore line: [collect2 version 9.2.0]
+        link line: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe -plugin c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/liblto_plugin-0.dll -plugin-opt=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Workshop\\AppData\\Local\\Temp\\cctVPUAa.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_0851f.exe c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../.. -v CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0851f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtend.o] ==> linker [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe]
+        ignore line: [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe -plugin c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/liblto_plugin-0.dll -plugin-opt=c:/mingw/bin/../libexec/gcc/mingw32/9.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Workshop\\AppData\\Local\\Temp\\cctVPUAa.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTC_0851f.exe c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../.. -v CMakeFiles/cmTC_0851f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0851f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lmingwex -lmingw32 -lmingwex -lgcc_s -lgcc -lmoldname -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtend.o]
+        linker tool for 'CXX': c:/mingw/mingw32/bin/ld.exe 
+        remove lib [msvcrt]
+        remove lib [msvcrt]
+        collapse obj [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../crt2.o] ==> [C:/MinGW/lib/crt2.o]
+        collapse obj [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtbegin.o] ==> [C:/MinGW/lib/gcc/mingw32/9.2.0/crtbegin.o]
+        collapse obj [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/crtend.o] ==> [C:/MinGW/lib/gcc/mingw32/9.2.0/crtend.o]
+        collapse library dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0] ==> [C:/MinGW/lib/gcc/mingw32/9.2.0]
+        collapse library dir [c:/mingw/bin/../lib/gcc] ==> [C:/MinGW/lib/gcc]
+        collapse library dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/lib] ==> [C:/MinGW/mingw32/lib]
+        collapse library dir [c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../..] ==> [C:/MinGW/lib]
+        implicit libs: [stdc++;mingw32;mingwex;mingw32;mingwex;gcc_s;gcc;moldname;advapi32;shell32;user32;kernel32;mingw32;mingwex;mingw32;mingwex;gcc_s;gcc;moldname]
+        implicit objs: [C:/MinGW/lib/crt2.o;C:/MinGW/lib/gcc/mingw32/9.2.0/crtbegin.o;C:/MinGW/lib/gcc/mingw32/9.2.0/crtend.o]
+        implicit dirs: [C:/MinGW/lib/gcc/mingw32/9.2.0;C:/MinGW/lib/gcc;C:/MinGW/mingw32/lib;C:/MinGW/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Internal/CMakeDetermineLinkerId.cmake:41 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake:337 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "c:/mingw/mingw32/bin/ld.exe" "-v"
+      GNU ld (GNU Binutils) 2.32
+...

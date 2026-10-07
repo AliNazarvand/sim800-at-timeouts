@@ -1,0 +1,6928 @@
+{
+  "AT+CAAS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 159,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 178,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 169,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CACM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 49,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 58,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 57,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CADC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 149,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "low",
+      "page": 360,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CAGCSET": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 194,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 184,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CALA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 134,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 148,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 142,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CALD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 149,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CALM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 92,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 102,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 98,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CALS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 93,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 103,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 99,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CAMM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 49,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 58,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 57,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CAND": {
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CANT": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 193,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 184,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CAOC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 50,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 59,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 58,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CBAND": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 142,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 157,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 150,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CBATCHK": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 209,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 139,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CBC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 97,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 108,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 103,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+CBST": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 51,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 60,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 59,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CBUZZER": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 164,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 183,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CBUZZERRING": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 164,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 183,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 174,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CCALR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 156,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 174,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 166,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CCFC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 52,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 61,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 60,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CCID": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 147,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 2000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 164,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 157,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CCLK": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 91,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 101,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 97,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CCODE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 153,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 162,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CCONCIND": {
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CCONCINDEX": {
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 195,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CCPD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 150,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 168,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 160,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CCVM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 141,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 156,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 150,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CCWA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 53,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 63,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 61,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    }
+  },
+  "AT+CCWE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 96,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 107,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 102,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+CDEVICE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 156,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 174,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 166,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CDNSCFG": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 192,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 235,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 224,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CDNSGIP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 193,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 235,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 225,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CDRIND": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 140,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 155,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 148,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CDSCB": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 136,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 151,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 144,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CEER": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 55,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 64,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 63,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    }
+  },
+  "AT+CEGPRS": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 200,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 190,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CELLIST": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 207,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 197,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CEMNL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 162,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 180,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 172,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CENG": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 145,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 161,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 154,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CEXBUT": {
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CEXTBUT": {
+    "V1.01": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CEXTERN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 165,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CEXTERNT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 165,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CEXTERNTONE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 165,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 175,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CEXTHS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 160,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CFGRI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 137,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 152,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 145,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CFUN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 90,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 0
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 100,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 0
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 95,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGACT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 205,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGATT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 202,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+CGCLASS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 207,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGDATA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 206,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 150000
+      }
+    }
+  },
+  "AT+CGDCONT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 202,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+CGEREP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 208,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGID": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 151,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 168,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 161,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGMI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 57,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 67,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 65,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGMM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 58,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 67,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 65,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGMR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 58,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 68,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 66,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGMSCLA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 155,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 173,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGMSCLASS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 155,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 173,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 165,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGPADDR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 207,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGPIO": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 200,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 190,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGQMIN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 203,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGQREQ": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 204,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGREG": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 209,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGSMS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 210,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 210,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CGSN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 59,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 68,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 66,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CHF": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 143,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 158,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 152,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CHFA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 144,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 159,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 152,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CHLD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 60,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 70,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 68,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CHUP": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 39,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 38,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIFSR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 225,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 215,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CIICR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 225,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 215,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CIMI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 61,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 20000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 71,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 20000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 69,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 20000
+      }
+    }
+  },
+  "AT+CIPACK": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 187,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 228,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 218,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPATS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 186,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 227,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 645000
+      }
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 217,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 645000
+      }
+    }
+  },
+  "AT+CIPBEIPING": {
+    "V1.10": {
+      "confidence": "high",
+      "page": 258,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 246,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPCCFG": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 199,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 242,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 231,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPCLOSE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 187,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 229,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 218,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPCSGP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 196,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 239,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 228,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPCTL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 208,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 256,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 244,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPDPDP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 198,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 241,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 230,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPFLT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 208,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 256,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 244,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPGSMLOC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 236,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 291,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPHEAD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 193,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 236,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 225,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPMODE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 198,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 242,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 231,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPMUX": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 182,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 223,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 213,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPPING": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 208,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 254,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 242,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPQSEND": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 186,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 227,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 217,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPRDTIM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 182,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 248,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPRDTIMER": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 182,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 248,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 237,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPRXGET": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 202,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 245,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 234,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSCONT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 204,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 247,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 236,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSEND": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 225,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 215,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSERVE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 195,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 238,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSERVER": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 195,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 238,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 227,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSGTXT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 182,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 249,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 237,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSHOWTP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 200,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 244,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 233,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSHUT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 225,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 215,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSPRT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 195,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 238,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 227,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSRIP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 197,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 240,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 229,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSTART": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 182,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 223,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 213,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSTATU": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 191,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 229,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPSTATUS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 191,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 229,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 219,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+CIPTKA": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 251,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 213,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPUDPMOD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 201,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 245,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIPUDPMODE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 201,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 244,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 234,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CIURC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 153,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 171,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 163,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CLCC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 25,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 31,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 70,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CLCK": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 63,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 73,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 71,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CLDTMF": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 139,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 154,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 148,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+CLIP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 65,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 75,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 73,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CLIR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 66,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 76,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 74,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    }
+  },
+  "AT+CLIST": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 208,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 30000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 139,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CLPORT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 188,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 230,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 220,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CLTS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 138,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 152,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 147,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CLVL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 94,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 104,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 100,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMEDIAVO": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 202,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CMEDIAVOL": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 202,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 192,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CMEDPLA": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 202,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CMEDPLAY": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 202,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 192,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CMEE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 67,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 77,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 75,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    }
+  },
+  "AT+CMGD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 148,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 165,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 157,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 2000
+      }
+    }
+  },
+  "AT+CMGDA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 148,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 165,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 157,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 2000
+      }
+    }
+  },
+  "AT+CMGF": {
+    "V1.01": {
+      "confidence": "low",
+      "page": 302,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 114,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 109,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMGHEX": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 152,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 170,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 162,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMGL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 103,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 114,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 109,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMGR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 106,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 20000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 117,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 20000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 112,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 20000
+      }
+    }
+  },
+  "AT+CMGS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 109,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 60000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 120,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 115,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+CMGW": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 111,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 121,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 117,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+CMIC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 133,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 146,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 140,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMICBIAS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 168,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 188,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 179,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSBCC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 266,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 323,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 308,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSCC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 266,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 322,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 307,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSCID": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 260,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 316,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 301,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSCURL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 315,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 300,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSDELBC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 268,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 325,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSDELBCC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 268,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 325,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 309,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSDELCC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 268,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 324,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 309,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSDELFI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 264,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 320,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSDELFILE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 264,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 320,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 305,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSDELRE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 267,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 324,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSDELRECP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 267,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 324,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 308,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSDOWN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 263,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 319,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 304,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSEDIT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 262,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 318,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 303,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSINIT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 276,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 333,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 317,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSPROFI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 274,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 331,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSPROFILE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 273,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 331,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 315,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSPROTO": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 315,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 300,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSRDPUS": {
+    "V1.01": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSRDPUSH": {
+    "V1.01": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSREAD": {
+    "V1.01": {
+      "confidence": "low",
+      "page": 308,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "low",
+      "page": 373,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "low",
+      "page": 353,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSRECP": {
+    "V1.01": {
+      "confidence": "high",
+      "page": 265,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 322,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 306,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSRECV": {
+    "V1.01": {
+      "confidence": "low",
+      "page": 308,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "low",
+      "page": 372,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 310,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSSCONT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 274,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 331,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 315,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSSEND": {
+    "V1.01": {
+      "confidence": "high",
+      "page": 265,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 317,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 302,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSSENDC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 261,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 317,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSSENDCF": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 261,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSSENDCFG": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 261,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 317,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 302,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSSTATU": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 275,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 332,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSSTATUS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 275,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 332,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 316,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSTERM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 276,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 333,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 317,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSTIMEO": {
+    "V1.01": {
+      "confidence": "high",
+      "page": 265,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 331,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSTIMEOUT": {
+    "V1.01": {
+      "confidence": "high",
+      "page": 265,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 331,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 315,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSUA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 273,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 330,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 314,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMMSVIEW": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 270,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 327,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 305,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMNRP": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 199,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 45000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 189,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 45000
+      }
+    }
+  },
+  "AT+CMOD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 137,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 151,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 145,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMSS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 111,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 117,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+CMTE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 147,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 2000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 164,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 2000
+      }
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CMUT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 95,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 106,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 101,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CMUX": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 86,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 97,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 92,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+CN": {
+    "V1.12": {
+      "confidence": "high",
+      "page": 175,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CNETLIGH": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 165,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CNETLIGHT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 165,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 175,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CNETSCA": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 198,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CNETSCAN": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 198,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 188,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CNMI": {
+    "V1.01": {
+      "confidence": "low",
+      "page": 113,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 124,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 60000
+      }
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 119,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CNUM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 88,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 97,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 93,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+COLP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 68,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 78,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 76,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+COPN": {
+    "V1.01": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "low",
+      "page": 362,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 95,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+COPS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 69,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 80,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 77,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CPAS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 71,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 81,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 78,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+CPBF": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 71,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 82,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 79,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CPBR": {
+    "V1.01": {
+      "confidence": "low",
+      "page": 298,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 83,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "low",
+      "page": 340,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CPBS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 74,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 3000
+      }
+    },
+    "V1.10": {
+      "confidence": "low",
+      "page": 359,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "low",
+      "page": 340,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CPBW": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 74,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 3000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 85,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 3000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 82,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 3000
+      }
+    }
+  },
+  "AT+CPCMCFG": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 192,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 182,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CPCMSYN": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 192,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+CPCMSYNC": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 192,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 183,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+CPIN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 76,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 87,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 83,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 3000
+      }
+    }
+  },
+  "AT+CPMS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 115,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 126,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 121,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CPOL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 88,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 98,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 94,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CPOWD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 132,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 146,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 140,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CPSPWD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 154,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 172,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 164,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CPUC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 95,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 106,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 101,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CPWD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 76,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 87,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 84,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+CR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 77,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 88,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 85,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 15000
+      }
+    }
+  },
+  "AT+CRC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 78,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 89,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 86,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CREC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 279,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 338,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 325,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CRECORD": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 338,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 325,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CREG": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 79,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 90,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 87,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CRES": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 116,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 127,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 122,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CRLP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 80,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 92,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 88,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+CROAMIN": {
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CROAMING": {
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 188,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CRSL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 93,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 104,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 99,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CRSM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 81,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 92,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 89,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSAS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 116,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 128,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 123,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+CSCA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 117,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 129,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 123,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+CSCB": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 118,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 130,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 124,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+CSCLK": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 144,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 160,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 153,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSCS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 59,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 69,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 67,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSDH": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 119,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 131,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 126,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSDT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 166,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+CSGS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 168,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 188,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 178,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSIM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 91,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 101,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 97,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSMINS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 167,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 187,
+      "status": "present",
+      "timeouts": {
+        "init_delay": 2000,
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 178,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSMP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 120,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 132,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 126,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSMS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 121,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 133,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 127,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSNS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 136,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 2000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 150,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 2000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 144,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSPN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 141,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 156,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 149,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSQ": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 82,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 93,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 90,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSSN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 98,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 109,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 104,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSTA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 60,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 70,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 67,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CSTT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 184,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 225,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 215,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CTTS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 283,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 345,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 328,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CTTSPARAM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 283,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 343,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 326,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+CTTSRING": {
+    "V1.10": {
+      "confidence": "high",
+      "page": 345,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 328,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CUSD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 98,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 108,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 103,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CWHITELI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 166,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 185,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+CWHITELIST": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 166,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 185,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 176,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+DDET": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 278,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 336,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 319,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+DLYRI": {
+    "V1.12": {
+      "confidence": "high",
+      "page": 139,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+DTAM": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 155,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 148,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+ECHARGE": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 203,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 194,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+ECHO": {
+    "V1.01": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 177,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 169,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+EMAILCID": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 239,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 294,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 280,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+EMAILTO": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 239,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 294,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 280,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+EXUNSOL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 154,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 172,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 164,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+FCLASS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 83,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+FMI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 83,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+FMM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 84,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+FMR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 84,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+FSDRIVE": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 286,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 274,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FSHEX": {
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPCID": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 223,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 271,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 260,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPDELE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 231,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 60000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 280,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 269,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+FTPEXTGE": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 288,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPEXTGET": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 288,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 275,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPEXTPUT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 233,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 60000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 282,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 271,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPFILEPU": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 289,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPFILEPUT": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 289,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 277,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPGET": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 228,
+      "status": "present",
+      "timeouts": {
+        "max_timeout": 65000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 275,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 263,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPGETNA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 226,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 275,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPGETNAME": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 231,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 60000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 275,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 263,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPGETPA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 226,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 275,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPGETPATH": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 226,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 275,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 264,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPGETTO": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 285,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPGETTOFS": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 285,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 274,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPLIST": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 234,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 60000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 284,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 272,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPMKD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 233,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 283,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 271,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPMOD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 221,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPMODE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 221,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 269,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 258,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPPORT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 221,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 269,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 258,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPPUT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 222,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 271,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 260,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPPUTFR": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 287,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPPUTFRMFS": {
+    "V1.10": {
+      "confidence": "low",
+      "page": 286,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 275,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPPUTNA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 227,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 276,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPPUTNAME": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 227,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 276,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 264,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPPUTOP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 222,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 271,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPPUTOPT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 222,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 271,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 260,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPPUTPA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 227,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 276,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPPUTPATH": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 227,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 276,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 265,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPPW": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 225,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 274,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 263,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPQUIT": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 290,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 277,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPREST": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 223,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 272,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 261,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPRMD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 234,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 60000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 284,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 272,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPSCONT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 230,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 279,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 269,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+FTPSERV": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 224,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 272,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 261,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPSIZE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 231,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 60000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 281,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 269,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPSTATE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 232,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 60000
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 282,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 270,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 75000
+      }
+    }
+  },
+  "AT+FTPTYPE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 222,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 270,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTPUN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 224,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 273,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 262,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+FTSIZE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 231,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+GCAP": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 48,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+GMI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 48,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+GMM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 48,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+GMR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 49,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+GOI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 49,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+GSMBUSY": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 161,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 180,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 171,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+GSN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 50,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+GSV": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 156,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 175,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 166,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPACTI": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPACTIO": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPACTION": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 250,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPDATA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 250,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPGETHEAD": {
+    "V1.12": {
+      "confidence": "high",
+      "page": 255,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPHEAD": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 255,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPINIT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 254,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPPARA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 248,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPREA": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPREAD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 252,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+HTTPSCON": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPSCONT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 253,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPSTAT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPSTATUS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 254,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPTER": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HTTPTERM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 212,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 259,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 248,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+HVOIC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 54,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 20000
+      }
+    }
+  },
+  "AT+ICF": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 50,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+IFC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+IPR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 22,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 28,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 52,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+MORING": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 151,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 169,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 161,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3CMD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 252,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 308,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 293,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3DEL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 255,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 311,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 296,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3IN": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 249,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 305,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 290,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3LIST": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 250,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 306,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 291,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3NUM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 250,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 305,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 291,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3OUT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 256,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 311,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 295,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3READ": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 253,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 310,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 295,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3RSET": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 256,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 312,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 297,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3SRV": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 248,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 304,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 289,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+POP3UIDL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 251,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 307,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 292,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SAPBR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 239,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 294,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 280,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SCLASS0": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 146,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 163,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 157,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SD2PCM": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 195,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 185,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SDMODE": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 206,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 196,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SGPIO": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 157,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 175,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 167,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SIDET": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 132,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "low",
+      "page": 377,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 139,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SIMTIMER": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 204,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 194,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+SIMTONE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 150,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 167,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 159,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+SIMTONEX": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 196,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    }
+  },
+  "AT+SJDR": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 190,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 181,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+SKPD": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 196,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 186,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SLEDS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 163,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 182,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 173,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SMTPAUTH": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 241,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 296,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 282,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SMTPBODY": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 244,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 299,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 285,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SMTPCS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 247,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 303,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 289,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SMTPFILE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 244,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 300,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 286,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SMTPFROM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 242,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 297,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 283,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SMTPFT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 246,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 302,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 287,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SMTPRCPT": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 242,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 283,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SMTPSEND": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 246,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 301,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 287,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SMTPSRV": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 240,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 295,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 281,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  },
+  "AT+SMTPSUB": {
+    "V1.01": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 299,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 285,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SNDLEVEL": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 203,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 193,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+SPE": {
+    "V1.10": {
+      "page": null,
+      "status": "section_not_found",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 195,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SPIC": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 132,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 146,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 140,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+SPWM": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 157,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 176,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "low",
+      "page": 363,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+SRSPT": {
+    "V1.10": {
+      "confidence": "medium",
+      "page": 206,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 197,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+STKCALL": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 131,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+STKDTMF": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 129,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+STKENV": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 130,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+STKENVS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 130,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+STKMENU": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 134,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+STKPCIS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 129,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+STKSMS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 138,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 132,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+STKSS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 132,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+STKTR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 130,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+STKTRS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 135,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "medium",
+      "page": 129,
+      "status": "no_match",
+      "timeouts": {}
+    }
+  },
+  "AT+STKUSSD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 123,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "high",
+      "page": 139,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 133,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+STTONE": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 149,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 166,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 158,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": 5000
+      }
+    }
+  },
+  "AT+SVR": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 160,
+      "status": "no_match",
+      "timeouts": {}
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 178,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 170,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+VTD": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 85,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 94,
+      "status": "not_mentioned",
+      "timeouts": {}
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 90,
+      "status": "not_mentioned",
+      "timeouts": {}
+    }
+  },
+  "AT+VTS": {
+    "V1.01": {
+      "confidence": "medium",
+      "page": 85,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.10": {
+      "confidence": "medium",
+      "page": 95,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    },
+    "V1.12": {
+      "confidence": "high",
+      "page": 91,
+      "status": "present",
+      "timeouts": {
+        "max_response_time": null
+      }
+    }
+  }
+}
