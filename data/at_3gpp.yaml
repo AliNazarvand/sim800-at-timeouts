@@ -1,0 +1,375 @@
+metadata:
+  description: 3GPP TS 27.007 and 27.005 AT commands
+  schema_version: 1.0.0
+  database_version: 1.0.0
+  review_scope: complete
+  pending_versions: []
+  extracted_from:
+  - SIM800 Series_AT Command Manual_V1.12.pdf
+  - SIM800 Series_AT Command Manual_V1.10.pdf
+entries:
+- command: AT+CGACT
+  category: at_3gpp_27007
+  description: PDP context activate or deactivate
+  timeouts:
+  - timeout_kind: max_response_time
+    min_value_ms: null
+    max_value_ms: 150000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 7.2.5 AT+CGACT
+  extraction_status_latest: extracted_from_table
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Page 175
+      page: 175
+      note: Auto-verified from PDF; MRT matches representative.
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 7.2.5 AT+CGACT
+      page: 213
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 213
+  notes: ''
+- command: AT+CGATT
+  category: at_3gpp_27007
+  description: Attach or detach from GPRS service
+  timeouts:
+  - timeout_kind: max_response_time
+    min_value_ms: null
+    max_value_ms: 75000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 7.2.1 AT+CGATT
+  extraction_status_latest: extracted_from_table
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 7.2.1 AT+CGATT
+      page: 210
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Page 211
+      page: 211
+      note: Auto-verified from PDF; MRT matches representative.
+      compared_to_version: V1.12
+  page_hint: 210
+  notes: 70 seconds max response time
+- command: AT+CGREG
+  category: at_3gpp_27007
+  description: Network registration status for GPRS
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 7.2.10 AT+CGREG
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 7.2.10 AT+CGREG
+      page: 218
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 7.2.10 AT+CGREG
+      page: 218
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 218
+  notes: ''
+- command: AT+COPS
+  category: at_3gpp_27007
+  description: Operator selection
+  timeouts:
+  - timeout_kind: max_response_time
+    min_value_ms: 45000
+    max_value_ms: 120000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 3.2.22 AT+COPS
+  extraction_status_latest: extracted_from_table
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 3.2.22 AT+COPS
+      page: 78
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 3.2.22 AT+COPS
+      page: 78
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 78
+  notes: 'Test command: 45s; Write command: 120s.'
+- command: AT+CPIN
+  category: at_3gpp_27007
+  description: Enter PIN
+  timeouts:
+  - timeout_kind: max_response_time
+    min_value_ms: null
+    max_value_ms: 5000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 3.2.1 AT+CPIN
+  extraction_status_latest: extracted_from_table
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 3.2.1 AT+CPIN
+      page: 72
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Table 3.2.1 AT+CPIN
+      page: 72
+      note: Confirmed identical max response time values.
+      compared_to_version: V1.12
+  page_hint: 72
+  notes: 3s for string present; 30s for complete phonebook read.
+- command: AT+CREG
+  category: at_3gpp_27007
+  description: Network registration status
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 3.2.32 AT+CREG
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 3.2.32 AT+CREG
+      page: 82
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 3.2.32 AT+CREG
+      page: 82
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 82
+  notes: ''
+- command: AT+CSQ
+  category: at_3gpp_27007
+  description: Signal quality report
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 3.2.35 AT+CSQ
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 3.2.35 AT+CSQ
+      page: 88
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 3.2.35 AT+CSQ
+      page: 88
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 88
+  notes: ''
+- command: AT+CGSN
+  category: at_3gpp_27007
+  description: Request International Mobile Equipment Identity (IMEI)
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Chapter 3
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 3
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 3
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: null
+  notes: Command present in manual; timeout not mentioned in PDF.
+- command: AT+CMEE
+  category: at_3gpp_27007
+  description: Report mobile equipment error
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Chapter 3
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 3
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 3
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: null
+  notes: Command present in manual; timeout not mentioned in PDF.
+- command: AT+CPMS
+  category: at_3gpp_27005
+  description: Preferred message storage
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Chapter 4
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 4
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 4
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: null
+  notes: Command present in manual; timeout not mentioned in PDF.
+- command: AT+CNMI
+  category: at_3gpp_27005
+  description: New message indication to TE
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Chapter 4
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 4
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 4
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: null
+  notes: Command present in manual; timeout not mentioned in PDF.

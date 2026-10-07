@@ -1,0 +1,83 @@
+metadata:
+  description: FTP AT commands
+  schema_version: 1.0.0
+  database_version: 1.0.0
+  review_scope: complete
+  pending_versions: []
+  extracted_from:
+  - SIM800 Series_AT Command Manual_V1.12.pdf
+entries:
+- command: AT+FTPGET
+  category: ftp
+  description: Download file
+  timeouts:
+  - timeout_kind: max_response_time
+    min_value_ms: null
+    max_value_ms: 75000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 12.2.14 AT+FTPGET
+  extraction_status_latest: extracted_from_table
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 12.2.14 AT+FTPGET
+      page: 245
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Table 12.2.14 AT+FTPGET
+      page: 245
+      note: Confirmed identical to V1.12.
+      compared_to_version: V1.12
+  page_hint: 245
+  notes: ''
+- command: AT+FTPPUT
+  category: ftp
+  description: Set upload file
+  timeouts:
+  - timeout_kind: max_response_time
+    min_value_ms: null
+    max_value_ms: 75000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 12.2.15 AT+FTPPUT
+  extraction_status_latest: extracted_from_table
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 12.2.15 AT+FTPPUT
+      page: 248
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Table 12.2.15 AT+FTPPUT
+      page: 248
+      note: Confirmed identical to V1.12.
+      compared_to_version: V1.12
+  page_hint: 248
+  notes: ''

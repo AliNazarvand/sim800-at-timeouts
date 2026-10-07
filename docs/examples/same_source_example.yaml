@@ -1,0 +1,53 @@
+metadata:
+  description: "Canonical example: source_same_as_representative and page_hint_same_as_representative both true"
+  schema_version: "1.0.0"
+  database_version: "1.0.0"
+  review_scope: "complete"
+  pending_versions: []
+  extracted_from:
+    - "SIM800 Series_AT Command Manual_V1.12.pdf"
+
+entries:
+  - command: "AT+CSQ"
+    category: "at_3gpp_27007"
+    description: "Signal quality report"
+    timeouts:
+      - timeout_kind: "max_response_time"
+        min_value_ms: null
+        max_value_ms: 5000
+        nominal_value_ms: null
+        recommended_value_ms: null
+        default_value_ms: null
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 3.2.35 AT+CSQ"
+    extraction_status_latest: "extracted_from_table"
+    presence_status_latest: "present"
+    representative_version: "V1.12"
+    available_in_versions: ["V1.01", "V1.10", "V1.12"]
+    version_specific:
+      - version: "V1.10"
+        timeouts: []
+        presence_status: "not_mentioned"
+        extraction_status: "not_specified"
+        source_same_as_representative: true
+        source_document: null
+        source_section: null
+        page_hint_same_as_representative: true
+        page_hint: null
+    version_reviews:
+      - version: "V1.01"
+        status: "approved_present_equivalent"
+        evidence:
+          section: "Table 3.2.35 AT+CSQ"
+          page: 88
+          note: "Same page and section as V1.12."
+          compared_to_version: "V1.12"
+      - version: "V1.10"
+        status: "approved_present_not_mentioned"
+        evidence:
+          section: "Chapter 3"
+          page: 88
+          note: "Timeout not mentioned for this version; source and page match representative."
+          compared_to_version: null
+    page_hint: 88
+    notes: ""

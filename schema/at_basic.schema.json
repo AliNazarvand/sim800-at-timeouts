@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sim800-at-timeouts/schema/at_basic.schema.json",
+  "type": "object",
+  "required": ["metadata","entries"],
+  "properties": {
+    "metadata": { "$ref": "common.schema.json#/$defs/metadata" },
+    "entries": {
+      "type": "array",
+      "items": { "$ref": "common.schema.json#/$defs/command_entry" }
+    }
+  },
+  "additionalProperties": false
+}

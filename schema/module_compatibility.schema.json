@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sim800-at-timeouts/schema/module_compatibility.schema.json",
+  "type": "object",
+  "required": ["modules","command_support"],
+  "properties": {
+    "modules": { "type": "array" },
+    "command_support": { "type": "array" }
+  },
+  "additionalProperties": false
+}

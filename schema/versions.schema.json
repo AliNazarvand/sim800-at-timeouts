@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sim800-at-timeouts/schema/versions.schema.json",
+  "type": "object",
+  "required": ["versions","latest"],
+  "properties": {
+    "versions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id","order"],
+        "properties": {
+          "id": { "type": "string" },
+          "order": { "type": "integer" }
+        }
+      }
+    },
+    "latest": { "type": "string" }
+  },
+  "additionalProperties": false
+}

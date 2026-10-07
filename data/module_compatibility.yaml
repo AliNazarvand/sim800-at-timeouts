@@ -1,0 +1,119 @@
+modules:
+  - id: SIM800
+  - id: SIM800A
+  - id: SIM800C
+  - id: SIM800C-DS
+  - id: SIM800F
+  - id: SIM800H
+  - id: SIM800L
+  - id: SIM808
+  - id: SIM868
+
+command_support:
+  # --- Basic / 3GPP TS 27.007 ---
+  - command: "AT+CPIN"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 3.2.1 AT+CPIN"
+  - command: "AT+CREG"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 3.2.32 AT+CREG"
+  - command: "AT+CGREG"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 7.2.10 AT+CGREG"
+  - command: "AT+CSQ"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 3.2.35 AT+CSQ"
+  - command: "AT+COPS"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 3.2.22 AT+COPS"
+  - command: "AT+CGATT"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 7.2.1 AT+CGATT"
+  - command: "AT+CGACT"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 7.2.5 AT+CGACT"
+
+  # --- SMS ---
+  - command: "AT+CMGD"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 4.2.1 AT+CMGD"
+  - command: "AT+CMGF"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 4.2.2 AT+CMGF"
+  - command: "AT+CMGL"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 4.2.3 AT+CMGL"
+  - command: "AT+CMGR"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 4.2.4 AT+CMGR"
+  - command: "AT+CMGS"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 4.2.5 AT+CMGS"
+
+  # --- GPRS ---
+  - command: "AT+CGDCONT"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 7.2.2 AT+CGDCONT"
+
+  # --- TCP/IP ---
+  - command: "AT+CIFSR"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 8.2.11 AT+CIFSR"
+  - command: "AT+CIICR"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 8.2.10 AT+CIICR"
+  - command: "AT+CIPCLOSE"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 8.2.6 AT+CIPCLOSE"
+  - command: "AT+CIPSHUT"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 8.2.7 AT+CIPSHUT"
+  - command: "AT+CIPSEND"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 8.2.3 AT+CIPSEND"
+  - command: "AT+CIPSTART"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 8.2.2 AT+CIPSTART"
+
+  # --- HTTP (present only up to V1.10; removed in V1.12) ---
+  - command: "AT+HTTPACTION"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.10.pdf"
+    source_section: "AT+HTTPACTION"
+  - command: "AT+HTTPINIT"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.10.pdf"
+    source_section: "Section 11.2.1 AT+HTTPINIT"
+  - command: "AT+HTTPREAD"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.10.pdf"
+    source_section: "Section 11.2.6 AT+HTTPREAD"
+
+  # --- FTP ---
+  - command: "AT+FTPGET"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 12.2.14 AT+FTPGET"
+  - command: "AT+FTPPUT"
+    supported_in: [SIM800, SIM800A, SIM800C, SIM800C-DS, SIM800F, SIM800H, SIM800L, SIM808, SIM868]
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Section 12.2.15 AT+FTPPUT"

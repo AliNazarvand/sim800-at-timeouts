@@ -1,0 +1,196 @@
+metadata:
+  description: Module initialization timing
+  schema_version: 1.0.0
+  database_version: 1.0.0
+  review_scope: complete
+  pending_versions: []
+  extracted_from:
+  - SIM800_Hardware Design_V1.09.pdf
+  - SIM800L_Hardware Design_V1.00.pdf
+  - SIM800C-DS_Hardware_Design_V1.01.pdf
+entries:
+- command: BOOT_TIME_AFTER_PWRKEY
+  category: init
+  description: Module boot time after PWRKEY release
+  timeouts:
+  - timeout_kind: boot_time
+    min_value_ms: null
+    max_value_ms: 1600
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800_Hardware Design_V1.09.pdf
+  source_section: Section 4.2.1
+  extraction_status_latest: extracted_from_text
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.1
+      page: 25
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.1
+      page: 25
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 25
+  notes: Module successfully booted after about 1.6s
+- command: PWRKEY_POWER_OFF
+  category: init
+  description: Pull down PWRKEY to power off
+  timeouts:
+  - timeout_kind: hardware_settle_time
+    min_value_ms: 1500
+    max_value_ms: null
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800_Hardware Design_V1.09.pdf
+  source_section: Section 4.2.2 Power off
+  extraction_status_latest: extracted_from_text
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.2 Power off
+      page: 27
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.2 Power off
+      page: 27
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 27
+  notes: At least 1.5 seconds
+- command: PWRKEY_POWER_ON_SIM800
+  category: init
+  description: Pull down PWRKEY to power on SIM800
+  timeouts:
+  - timeout_kind: hardware_settle_time
+    min_value_ms: 1200
+    max_value_ms: null
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800_Hardware Design_V1.09.pdf
+  source_section: Section 4.2.1 Power on SIM800
+  extraction_status_latest: extracted_from_text
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.1 Power on SIM800
+      page: 25
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.1 Power on SIM800
+      page: 25
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 25
+  notes: At least 1.2 seconds
+- command: PWRKEY_POWER_ON_SIM800L
+  category: init
+  description: Pull down PWRKEY to power on SIM800L
+  timeouts:
+  - timeout_kind: hardware_settle_time
+    min_value_ms: 1000
+    max_value_ms: null
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800L_Hardware Design_V1.00.pdf
+  source_section: Section 4.2.1 Power on SIM800L
+  extraction_status_latest: extracted_from_text
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.1 Power on SIM800L
+      page: 22
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.1 Power on SIM800L
+      page: 22
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 22
+  notes: At least 1 second
+- command: RESTART_WAIT_STATUS_LOW
+  category: init
+  description: Wait after STATUS pin goes low before restart
+  timeouts:
+  - timeout_kind: init_delay
+    min_value_ms: 800
+    max_value_ms: null
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800_Hardware Design_V1.09.pdf
+  source_section: Section 4.2.3 Restart
+  extraction_status_latest: extracted_from_text
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.3 Restart
+      page: 28
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 4.2.3 Restart
+      page: 28
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 28
+  notes: Wait at least 800ms after STATUS pin changes to low level

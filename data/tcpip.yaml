@@ -1,0 +1,324 @@
+metadata:
+  description: TCP/IP AT commands
+  schema_version: 1.0.0
+  database_version: 1.0.0
+  review_scope: complete
+  pending_versions: []
+  extracted_from:
+  - SIM800 Series_AT Command Manual_V1.12.pdf
+entries:
+- command: AT+CIFSR
+  category: tcpip
+  description: Get local IP address
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 8.2.11 AT+CIFSR
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.11 AT+CIFSR
+      page: 231
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.11 AT+CIFSR
+      page: 231
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 231
+  notes: ''
+- command: AT+CIICR
+  category: tcpip
+  description: Bring up wireless connection with GPRS or CSD
+  timeouts:
+  - timeout_kind: max_response_time
+    min_value_ms: null
+    max_value_ms: 85000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 8.2.10 AT+CIICR
+  extraction_status_latest: extracted_from_table
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.10 AT+CIICR
+      page: 229
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Table 8.2.10 AT+CIICR
+      page: 229
+      note: Confirmed identical to V1.12.
+      compared_to_version: V1.12
+  page_hint: 229
+  notes: ''
+- command: AT+CIPCLOSE
+  category: tcpip
+  description: Close TCP or UDP connection
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 8.2.6 AT+CIPCLOSE
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.6 AT+CIPCLOSE
+      page: 226
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.6 AT+CIPCLOSE
+      page: 226
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 226
+  notes: 'multi-IP state: 75s; single IP state, IP INITIAL: 160s'
+- command: AT+CIPSHUT
+  category: tcpip
+  description: Deactivate GPRS PDP context
+  timeouts:
+  - timeout_kind: max_response_time
+    min_value_ms: null
+    max_value_ms: 65000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 8.2.7 AT+CIPSHUT
+  extraction_status_latest: extracted_from_table
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.7 AT+CIPSHUT
+      page: 227
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Page 230
+      page: 230
+      note: Auto-verified from PDF; MRT matches representative.
+      compared_to_version: V1.12
+  page_hint: 227
+  notes: ''
+- command: AT+CIPSEND
+  category: tcpip
+  description: Send data through TCP or UDP connection
+  timeouts:
+  - timeout_kind: prompt_timeout
+    min_value_ms: null
+    max_value_ms: null
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  - timeout_kind: send_timeout
+    min_value_ms: null
+    max_value_ms: null
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  - timeout_kind: urc_report_timeout
+    min_value_ms: null
+    max_value_ms: 660000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 8.2.3 AT+CIPSEND
+  extraction_status_latest: extracted_from_text
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.3 AT+CIPSEND
+      page: 223
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.3 AT+CIPSEND
+      page: 223
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 223
+  notes: URC CLOSE reported after 660 s when server not responding.
+- command: AT+CIPSTART
+  category: tcpip
+  description: Start up TCP or UDP connection
+  timeouts:
+  - timeout_kind: max_timeout
+    min_value_ms: 75000
+    max_value_ms: 160000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Section 8.2.2 AT+CIPSTART
+  extraction_status_latest: extracted_from_table
+  presence_status_latest: present
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.2 AT+CIPSTART
+      page: 221
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Section 8.2.2 AT+CIPSTART
+      page: 221
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: 221
+  notes: 'multi-IP state: 75s; single IP state, IP INITIAL: 160s'
+- command: AT+CIPMUX
+  category: tcpip
+  description: Start up multi-IP connection
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Chapter 8
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 8
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 8
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: null
+  notes: Command present in manual; timeout not mentioned in PDF.
+- command: AT+CSTT
+  category: tcpip
+  description: Start task and set APN, user name, password
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Chapter 8
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 8
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 8
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: null
+  notes: Command present in manual; timeout not mentioned in PDF.
+- command: AT+CIPSTATUS
+  category: tcpip
+  description: Query current connection status
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Chapter 8
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 8
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 8
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: null
+  notes: Command present in manual; timeout not mentioned in PDF.

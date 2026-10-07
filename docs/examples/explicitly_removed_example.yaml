@@ -1,0 +1,47 @@
+metadata:
+  description: "Canonical example: a version where the timeout is explicitly removed by the PDF"
+  schema_version: "1.0.0"
+  database_version: "1.0.0"
+  review_scope: "complete"
+  pending_versions: []
+  extracted_from:
+    - "SIM800 Series_AT Command Manual_V1.12.pdf"
+
+entries:
+  - command: "AT+EXAMPLE_REMOVED"
+    category: "at_basic"
+    description: "Demonstration entry for presence_status: explicitly_removed"
+    timeouts: []
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "Chapter 2"
+    extraction_status_latest: "not_specified"
+    presence_status_latest: "present"
+    representative_version: "V1.12"
+    available_in_versions: ["V1.01", "V1.10", "V1.12"]
+    version_specific:
+      - version: "V1.10"
+        timeouts: []
+        presence_status: "explicitly_removed"
+        extraction_status: "not_specified"
+        source_same_as_representative: true
+        source_document: null
+        source_section: null
+        page_hint_same_as_representative: true
+        page_hint: null
+    version_reviews:
+      - version: "V1.01"
+        status: "approved_present_equivalent"
+        evidence:
+          section: "Chapter 2"
+          page: 40
+          note: "Same as V1.12."
+          compared_to_version: "V1.12"
+      - version: "V1.10"
+        status: "approved_present_explicitly_removed"
+        evidence:
+          section: "Chapter 2"
+          page: 42
+          note: "PDF states the timeout is not applicable."
+          compared_to_version: null
+    page_hint: 40
+    notes: "Demonstration entry."

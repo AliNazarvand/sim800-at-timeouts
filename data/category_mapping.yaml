@@ -1,0 +1,67 @@
+categories:
+  - chapter_key: basic_at
+    category: at_basic
+    yaml_file: at_basic.yaml
+    cpp_header: at_basic.hpp
+    cpp_namespace: sim800::timeouts::at_basic
+    cpp_array_name: AT_BASIC_TIMEOUTS
+  - chapter_key: at_3gpp_27007
+    category: at_3gpp_27007
+    yaml_file: at_3gpp.yaml
+    cpp_header: at_3gpp.hpp
+    cpp_namespace: sim800::timeouts::at_3gpp
+    cpp_array_name: AT_3GPP_TIMEOUTS
+  - chapter_key: at_3gpp_27005
+    category: at_3gpp_27005
+    yaml_file: at_3gpp.yaml
+    cpp_header: at_3gpp.hpp
+    cpp_namespace: sim800::timeouts::at_3gpp
+    cpp_array_name: AT_3GPP_TIMEOUTS
+  - chapter_key: sms
+    category: sms
+    yaml_file: sms.yaml
+    cpp_header: sms.hpp
+    cpp_namespace: sim800::timeouts::sms
+    cpp_array_name: SMS_TIMEOUTS
+  - chapter_key: gprs
+    category: gprs
+    yaml_file: gprs.yaml
+    cpp_header: gprs.hpp
+    cpp_namespace: sim800::timeouts::gprs
+    cpp_array_name: GPRS_TIMEOUTS
+  - chapter_key: tcpip
+    category: tcpip
+    yaml_file: tcpip.yaml
+    cpp_header: tcpip.hpp
+    cpp_namespace: sim800::timeouts::tcpip
+    cpp_array_name: TCPIP_TIMEOUTS
+  - chapter_key: http
+    category: http
+    yaml_file: http.yaml
+    cpp_header: http.hpp
+    cpp_namespace: sim800::timeouts::http
+    cpp_array_name: HTTP_TIMEOUTS
+  - chapter_key: ftp
+    category: ftp
+    yaml_file: ftp.yaml
+    cpp_header: ftp.hpp
+    cpp_namespace: sim800::timeouts::ftp
+    cpp_array_name: FTP_TIMEOUTS
+  - chapter_key: audio
+    category: audio
+    yaml_file: audio.yaml
+    cpp_header: audio.hpp
+    cpp_namespace: sim800::timeouts::audio
+    cpp_array_name: AUDIO_TIMEOUTS
+  - chapter_key: stk
+    category: stk
+    yaml_file: stk.yaml
+    cpp_header: stk.hpp
+    cpp_namespace: sim800::timeouts::stk
+    cpp_array_name: STK_TIMEOUTS
+  - chapter_key: init
+    category: init
+    yaml_file: init.yaml
+    cpp_header: init.hpp
+    cpp_namespace: sim800::timeouts::init
+    cpp_array_name: INIT_TIMEOUTS

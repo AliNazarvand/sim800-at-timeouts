@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sim800-at-timeouts/schema/common.schema.json",
+  "$defs": {
+    "non_empty_string": { "type": "string", "minLength": 1 },
+    "timeout_kind": {
+      "type": "string",
+      "enum": ["max_response_time","prompt_timeout","send_timeout","max_timeout","min_delay","max_wait","boot_time","retry_interval","urc_report_timeout","init_delay","hardware_settle_time"]
+    },
+    "extraction_status": { "type": "string", "enum": ["extracted_from_table","extracted_from_text","not_specified"] },
+    "presence_status": { "type": "string", "enum": ["present","explicitly_removed","not_mentioned"] },
+    "review_status": {
+      "type": "string",
+      "enum": ["approved_present_equivalent","approved_present_different","approved_present_not_mentioned","approved_present_explicitly_removed","approved_absent_command","approved_removed_command","pending_review","rejected_pdf_unavailable","rejected_uncertain"]
+    },
+    "review_scope": { "type": "string", "enum": ["absent","partial","complete"] },
+    "ms_value": { "type": ["integer","null"], "minimum": 0, "maximum": 4294967294 },
+    "page_value": { "type": ["integer","null"], "minimum": 1, "maximum": 4294967294 },
+    "section_pattern": { "type": "string", "pattern": "^(Table|Section|Chapter|Page|Figure)\\s" },
+    "semver": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "timeout_value": {
+      "type": "object",
+      "required": ["timeout_kind","min_value_ms","max_value_ms","nominal_value_ms","recommended_value_ms","default_value_ms"],
+      "properties": {
+        "timeout_kind": { "$ref": "#/$defs/timeout_kind" },
+        "min_value_ms": { "$ref": "#/$defs/ms_value" },
+        "max_value_ms": { "$ref": "#/$defs/ms_value" },
+        "nominal_value_ms": { "$ref": "#/$defs/ms_value" },
+        "recommended_value_ms": { "$ref": "#/$defs/ms_value" },
+        "default_value_ms": { "$ref": "#/$defs/ms_value" }
+      },
+      "additionalProperties": false
+    },
+    "review_evidence": {
+      "type": "object",
+      "required": ["section","page"],
+      "properties": {
+        "section": { "$ref": "#/$defs/section_pattern" },
+        "page": { "$ref": "#/$defs/page_value" },
+        "note": { "type": ["string","null"] },
+        "compared_to_version": { "type": ["string","null"] }
+      },
+      "additionalProperties": false
+    },
+    "version_review": {
+      "type": "object",
+      "required": ["version","status","evidence"],
+      "properties": {
+        "version": { "$ref": "#/$defs/non_empty_string" },
+        "status": { "$ref": "#/$defs/review_status" },
+        "evidence": { "oneOf": [ { "$ref": "#/$defs/review_evidence" }, { "type": "null" } ] }
+      },
+      "additionalProperties": false
+    },
+    "version_entry": {
+      "type": "object",
+      "required": ["version","timeouts","presence_status","extraction_status","source_same_as_representative","source_document","source_section","page_hint_same_as_representative","page_hint"],
+      "properties": {
+        "version": { "$ref": "#/$defs/non_empty_string" },
+        "timeouts": { "type": "array", "items": { "$ref": "#/$defs/timeout_value" }, "maxItems": 8 },
+        "presence_status": { "$ref": "#/$defs/presence_status" },
+        "extraction_status": { "$ref": "#/$defs/extraction_status" },
+        "source_same_as_representative": { "type": "boolean" },
+        "source_document": { "type": ["string","null"] },
+        "source_section": { "type": ["string","null"] },
+        "page_hint_same_as_representative": { "type": "boolean" },
+        "page_hint": { "$ref": "#/$defs/page_value" }
+      },
+      "additionalProperties": false
+    },
+    "command_entry": {
+      "type": "object",
+      "required": ["command","category","description","timeouts","source_document","source_section","extraction_status_latest","presence_status_latest","representative_version","available_in_versions","version_specific","version_reviews","page_hint","notes"],
+      "properties": {
+        "command": { "$ref": "#/$defs/non_empty_string" },
+        "category": { "type": "string", "enum": ["at_basic","at_3gpp_27007","at_3gpp_27005","sms","gprs","tcpip","http","ftp","audio","stk","init"] },
+        "description": { "type": "string" },
+        "timeouts": { "type": "array", "items": { "$ref": "#/$defs/timeout_value" }, "maxItems": 8 },
+        "source_document": { "$ref": "#/$defs/non_empty_string" },
+        "source_section": { "$ref": "#/$defs/non_empty_string" },
+        "extraction_status_latest": { "$ref": "#/$defs/extraction_status" },
+        "presence_status_latest": { "$ref": "#/$defs/presence_status" },
+        "representative_version": { "$ref": "#/$defs/non_empty_string" },
+        "available_in_versions": { "type": "array", "items": { "type": "string" }, "minItems": 1, "maxItems": 8 },
+        "version_specific": { "type": "array", "items": { "$ref": "#/$defs/version_entry" }, "maxItems": 8 },
+        "version_reviews": { "type": "array", "items": { "$ref": "#/$defs/version_review" }, "maxItems": 8 },
+        "page_hint": { "$ref": "#/$defs/page_value" },
+        "notes": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["description","schema_version","database_version","review_scope","pending_versions","extracted_from"],
+      "properties": {
+        "description": { "type": "string" },
+        "schema_version": { "$ref": "#/$defs/semver" },
+        "database_version": { "$ref": "#/$defs/semver" },
+        "review_scope": { "$ref": "#/$defs/review_scope" },
+        "pending_versions": { "oneOf": [ { "type": "array", "items": { "type": "string" } }, { "type": "null" } ] },
+        "extracted_from": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      },
+      "additionalProperties": false
+    }
+  }
+}

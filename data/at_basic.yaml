@@ -1,0 +1,40 @@
+metadata:
+  description: Basic AT commands
+  schema_version: 1.0.0
+  database_version: 1.0.0
+  review_scope: complete
+  pending_versions: []
+  extracted_from:
+  - SIM800 Series_AT Command Manual_V1.12.pdf
+entries:
+- command: AT
+  category: at_basic
+  description: Test command
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.12.pdf
+  source_section: Chapter 2
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.12
+  available_in_versions:
+  - V1.01
+  - V1.10
+  - V1.12
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 2
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  - version: V1.10
+    status: approved_present_equivalent
+    evidence:
+      section: Chapter 2
+      page: 1
+      note: 'Auto-filled: timeout equivalent to representative version (V1.12).'
+      compared_to_version: V1.12
+  page_hint: null
+  notes: ''

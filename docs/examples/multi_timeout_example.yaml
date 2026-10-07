@@ -1,0 +1,56 @@
+metadata:
+  description: "Canonical example: a command with multiple timeout_kinds (AT+CMGS)"
+  schema_version: "1.0.0"
+  database_version: "1.0.0"
+  review_scope: "complete"
+  pending_versions: []
+  extracted_from:
+    - "SIM800 Series_AT Command Manual_V1.12.pdf"
+
+entries:
+  - command: "AT+CMGS"
+    category: "sms"
+    description: "Send message"
+    timeouts:
+      - timeout_kind: "prompt_timeout"
+        min_value_ms: null
+        max_value_ms: null
+        nominal_value_ms: null
+        recommended_value_ms: null
+        default_value_ms: null
+      - timeout_kind: "send_timeout"
+        min_value_ms: null
+        max_value_ms: null
+        nominal_value_ms: null
+        recommended_value_ms: null
+        default_value_ms: null
+      - timeout_kind: "max_response_time"
+        min_value_ms: null
+        max_value_ms: 60000
+        nominal_value_ms: null
+        recommended_value_ms: null
+        default_value_ms: null
+    source_document: "SIM800 Series_AT Command Manual_V1.12.pdf"
+    source_section: "AT+CMGS"
+    extraction_status_latest: "extracted_from_text"
+    presence_status_latest: "present"
+    representative_version: "V1.12"
+    available_in_versions: ["V1.01", "V1.10", "V1.12"]
+    version_specific: []
+    version_reviews:
+      - version: "V1.01"
+        status: "approved_present_equivalent"
+        evidence:
+          section: "Section AT+CMGS"
+          page: 45
+          note: "Confirmed identical to V1.12."
+          compared_to_version: "V1.12"
+      - version: "V1.10"
+        status: "approved_present_equivalent"
+        evidence:
+          section: "Section AT+CMGS"
+          page: 45
+          note: "Confirmed identical to V1.12."
+          compared_to_version: "V1.12"
+    page_hint: null
+    notes: "Two-stage timeout: prompt (>) then send (Ctrl+Z)."

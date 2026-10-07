@@ -1,0 +1,105 @@
+metadata:
+  description: HTTP AT commands
+  schema_version: 1.0.0
+  database_version: 1.0.0
+  review_scope: complete
+  pending_versions: []
+  extracted_from:
+  - SIM800 Series_AT Command Manual_V1.10.pdf
+entries:
+- command: AT+HTTPACTION
+  category: http
+  description: HTTP action
+  timeouts:
+  - timeout_kind: max_timeout
+    min_value_ms: null
+    max_value_ms: 60000
+    nominal_value_ms: null
+    recommended_value_ms: null
+    default_value_ms: null
+  source_document: SIM800 Series_AT Command Manual_V1.10.pdf
+  source_section: Section AT+HTTPACTION
+  extraction_status_latest: extracted_from_text
+  presence_status_latest: present
+  representative_version: V1.10
+  available_in_versions:
+  - V1.01
+  - V1.10
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Section AT+HTTPACTION
+      page: 100
+      note: Confirmed identical to V1.10.
+      compared_to_version: V1.10
+  - version: V1.12
+    status: approved_removed_command
+    evidence:
+      section: Chapter 8
+      page: 130
+      note: Command removed; not present in V1.12 TOC.
+      compared_to_version: null
+  page_hint: 112
+  notes: Removed in V1.12; representative version is V1.10.
+- command: AT+HTTPINIT
+  category: http
+  description: Initialize HTTP service
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.10.pdf
+  source_section: Section 11.2.1 AT+HTTPINIT
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.10
+  available_in_versions:
+  - V1.01
+  - V1.10
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Table 11.2.1 AT+HTTPINIT
+      page: 108
+      note: Confirmed identical to V1.10.
+      compared_to_version: V1.10
+  - version: V1.12
+    status: approved_absent_command
+    evidence:
+      section: Chapter 8
+      page: 130
+      note: Command not present in V1.12.
+      compared_to_version: null
+  page_hint: 108
+  notes: ''
+- command: AT+HTTPREAD
+  category: http
+  description: Read the HTTP server response
+  timeouts: []
+  source_document: SIM800 Series_AT Command Manual_V1.10.pdf
+  source_section: Section 11.2.6 AT+HTTPREAD
+  extraction_status_latest: not_specified
+  presence_status_latest: not_mentioned
+  representative_version: V1.10
+  available_in_versions:
+  - V1.01
+  - V1.10
+  version_specific: []
+  version_reviews:
+  - version: V1.01
+    status: approved_present_equivalent
+    evidence:
+      section: Table 11.2.6 AT+HTTPREAD
+      page: 115
+      note: Confirmed identical to V1.10.
+      compared_to_version: V1.10
+  - version: V1.12
+    status: approved_absent_command
+    evidence:
+      section: Chapter 8
+      page: 130
+      note: Command not present in V1.12.
+      compared_to_version: null
+  page_hint: 115
+  notes: When cmd_type is 1, 85 seconds
