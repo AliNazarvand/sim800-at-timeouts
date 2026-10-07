@@ -1,68 +1,71 @@
 chapters:
-- chapter_key: basic_at
-  commands:
-  - AT
-- chapter_key: at_3gpp_27007
-  commands:
-  - AT+CPIN
-  - AT+CREG
-  - AT+CGREG
-  - AT+CSQ
-  - AT+COPS
-  - AT+CGATT
-  - AT+CGACT
-  - AT+CGSN
-  - AT+CMEE
-- chapter_key: at_3gpp_27005
-  commands:
-  - AT+CPMS
-  - AT+CNMI
-- chapter_key: sms
-  commands:
-  - AT+CMGD
-  - AT+CMGF
-  - AT+CMGL
-  - AT+CMGR
-  - AT+CMGS
-- chapter_key: gprs
-  commands:
-  - AT+CGDCONT
-- chapter_key: tcpip
-  commands:
-  - AT+CIFSR
-  - AT+CIICR
-  - AT+CIPCLOSE
-  - AT+CIPSHUT
-  - AT+CIPSEND
-  - AT+CIPSTART
-  - AT+CIPMUX
-  - AT+CSTT
-  - AT+CIPSTATUS
-- chapter_key: http
-  commands:
-  - AT+HTTPACTION
-  - AT+HTTPINIT
-  - AT+HTTPREAD
-- chapter_key: ftp
-  commands:
-  - AT+FTPGET
-  - AT+FTPPUT
-- chapter_key: audio
-  commands:
-  - AT+CHFA
-  - AT+CLVL
-  - AT+CMIC
-  - AT+CMUT
-  - AT+CRSL
-  - AT+VTS
-- chapter_key: stk
-  commands:
-  - AT+STKCALL
-  - AT+STKMENU
-- chapter_key: init
-  commands:
-  - PWRKEY_POWER_ON_SIM800
-  - PWRKEY_POWER_ON_SIM800L
-  - PWRKEY_POWER_OFF
-  - RESTART_WAIT_STATUS_LOW
-  - BOOT_TIME_AFTER_PWRKEY
+  - chapter_key: basic_at
+    commands:
+      - AT
+  - chapter_key: at_3gpp_27007
+    commands:
+      - AT+CPIN
+      - AT+CREG
+      - AT+CGREG
+      - AT+CSQ
+      - AT+COPS
+      - AT+CGATT
+      - AT+CGACT
+      - AT+CGSN
+      - AT+CMEE
+  - chapter_key: at_3gpp_27005
+    commands:
+      - AT+CPMS
+      - AT+CNMI
+  - chapter_key: sms
+    commands:
+      - AT+CMGD
+      - AT+CMGF
+      - AT+CMGL
+      - AT+CMGR
+      - AT+CMGS
+  - chapter_key: gprs
+    commands:
+      - AT+CGDCONT
+  - chapter_key: tcpip
+    commands:
+      - AT+CIFSR
+      - AT+CIICR
+      - AT+CIPCLOSE
+      - AT+CIPSHUT
+      - AT+CIPSEND
+      - AT+CIPSTART
+      - AT+CIPMUX
+      - AT+CSTT
+      - AT+CIPSTATUS
+  - chapter_key: http
+    commands:
+      - AT+HTTPACTION
+      - AT+HTTPINIT
+      - AT+HTTPREAD
+  - chapter_key: ftp
+    commands:
+      - AT+FTPGET
+      - AT+FTPPUT
+  - chapter_key: audio
+    commands:
+      - AT+CHFA
+      - AT+CLVL
+      - AT+CMIC
+      - AT+CMUT
+      - AT+CRSL
+      - AT+VTS
+  - chapter_key: stk
+    commands:
+      - AT+STKCALL
+      - AT+STKMENU
+  - chapter_key: init
+    commands:
+      - PWRKEY_POWER_ON_SIM800
+      - PWRKEY_POWER_ON_SIM800L
+      - PWRKEY_POWER_OFF
+      - RESTART_WAIT_STATUS_LOW
+      - BOOT_TIME_AFTER_PWRKEY
+      - PWRKEY_PULLDOWN_MAX
+      - VBAT_RISE_TIME
+      - PWRKEY_DEBOUNCE
