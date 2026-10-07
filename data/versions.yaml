@@ -1,0 +1,8 @@
+versions:
+  - id: "V1.01"
+    order: 1
+  - id: "V1.10"
+    order: 2
+  - id: "V1.12"
+    order: 3
+latest: "V1.12"
